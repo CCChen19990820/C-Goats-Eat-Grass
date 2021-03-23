@@ -1,0 +1,2358 @@
+1
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I   X         I            
+1                                                                      
+2                                       X                              
+3                     I                                                
+4                                                                      
+5                                                 X                    
+6                   X                                                  
+7                                                           I          
+8                                                                      
+9                                       I           I                  
+0                                             X                        
+1                                                                      
+2                                                                      
+3                 I                                       I            
+4                                                   I                  
+5             I                                                        
+6                                                                      
+7                                                                      
+8                                                                      
+9                                                                      
+------------------------------------------------------------------------
+2
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I X           I            
+1                                                                      
+2                                     X                                
+3                     I                                                
+4                                                                      
+5                                                                      
+6                     X                           X                    
+7                                                           I          
+8                                                                      
+9                                       I           I                  
+0                                                                      
+1                                             X                        
+2                                                                      
+3                 I                                       I            
+4                                                   I                  
+5             I                                                        
+6                                                                      
+7                                                                      
+8                                                                      
+9                                                                      
+------------------------------------------------------------------------
+3
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I             I            
+1                                                                      
+2                                       X                              
+3                     I                                                
+4                                                                      
+5                                                                      
+6                       X                           X                  
+7                                                           I          
+8                                                                      
+9                                       I           I                  
+0                                                                      
+1                                           X                          
+2                                                                      
+3                 I                                       I            
+4                                                   I                  
+5             I                                                        
+6                                                                      
+7                                                                      
+8                                                                      
+9                                                                      
+------------------------------------------------------------------------
+4
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I             I I          
+1                                           I                          
+2                                     X                                
+3                     I                                                
+4                     I                                                
+5                                                                      
+6                                                 X                    
+7                       X                                   I          
+8                                                   I       I          
+9                                     I I           I                  
+0                                                                      
+1                                                                      
+2                                           X             I            
+3                 I                                       I            
+4                 I                               I I                  
+5             I I                                                      
+6                                                                      
+7                                                                      
+8                                                                      
+9                                                                      
+------------------------------------------------------------------------
+5
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I I         I I I          
+1                                           I                          
+2                                       X                              
+3                     I                                                
+4                     I                                                
+5                                                                      
+6                                                   X       I          
+7                                                           I          
+8                       X               I           I       I          
+9                                     I I           I                  
+0                                                                      
+1                                                                      
+2                                         X               I            
+3                 I                                       I            
+4                 I                               I I I                
+5             I I                                                      
+6                                                                      
+7                                                                      
+8                                                                      
+9                                                                      
+------------------------------------------------------------------------
+6
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I I         I I I          
+1                                       X   I                          
+2                                                                      
+3                     I I                                              
+4                     I                                                
+5                                                   X                  
+6                                                           I          
+7                                                           I I        
+8                                       I           I       I          
+9                       X             I I         I I                  
+0                                                                      
+1                                                                      
+2                                       X                 I            
+3               I I                                       I            
+4                 I                               I I I                
+5             I I                                                      
+6             I                                                        
+7                                                                      
+8                                                                      
+9                                                                      
+------------------------------------------------------------------------
+7
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I I         I I I          
+1                                     X   I I                          
+2                                                                      
+3                     I I                                              
+4                     I                                                
+5                                                 X                    
+6                                                           I          
+7                                                           I I        
+8                                       I           I     I I          
+9                         X           I I         I I                  
+0                                                                      
+1                                       X                              
+2                                                         I            
+3               I I                                       I            
+4                 I I                             I I I                
+5             I I                                                      
+6             I I                                                      
+7                                                                      
+8                                                                      
+9                                                                      
+------------------------------------------------------------------------
+8
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I I         I   I I        
+1                                   X     I I                          
+2                                                                      
+3                       I                                              
+4                     I I                                              
+5                                                   X                  
+6                                                           I          
+7                                                             I        
+8                                       I           I     I I          
+9                           X         I           I                    
+0                                     I X                              
+1                                                                      
+2                                                         I            
+3               I                                 I                    
+4                 I I                             I   I I              
+5               I I                                                    
+6             I I                                                      
+7                                                                      
+8                                                                      
+9                                                                      
+------------------------------------------------------------------------
+9
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                   X       I I I       I I I I        
+1                                         I I           I              
+2                                                                      
+3                       I I                                            
+4                   I I I                           X                  
+5                                                                      
+6                                                           I I        
+7                                                           I I        
+8                                     I I I       I I     I I          
+9                                     I           I                    
+0                           X         I   X                            
+1                                                                      
+2                                                       I I            
+3               I                                 I                    
+4                 I I                             I I I I              
+5               I I                                                    
+6             I I                                                      
+7             I                                                        
+8                                                                      
+9                                                                      
+------------------------------------------------------------------------
+10
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I I I       I I I I        
+1                                   X     I I           I              
+2                       I                                              
+3                       I I                                            
+4                   I I I                             X                
+5                                                                      
+6                                                         I I I        
+7                                                   I       I I        
+8                                     I I I       I I     I I I        
+9                                   I I           I I                  
+0                             X       I X                              
+1                                                         I            
+2                                                       I I            
+3               I                                 I   I                
+4               I I I                           I I I I I              
+5               I I I                                                  
+6             I I I                                                    
+7             I                                                        
+8                                                                      
+9                                                                      
+------------------------------------------------------------------------
+11
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                         I I I I     I I I   I        
+1                                     X   I             I     I        
+2                       I                                              
+3                       I I                                            
+4                   I   I                               X              
+5                                                                      
+6                                                         I I I        
+7                                                   I       I I        
+8                                     I I I       I I     I   I        
+9                                   I I X         I I     I            
+0                           X         I                                
+1                                                         I            
+2               I                                       I I            
+3               I                                 I   I                
+4               I I I                           I I I I I              
+5                 I I                                   I              
+6           I I I I                                                    
+7             I                                                        
+8                                                                      
+9                                                                      
+------------------------------------------------------------------------
+12
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                         I I   I     I I I I I        
+1                                       X I I   I       I     I        
+2                       I                                              
+3                       I I                             X              
+4                   I I I I                                            
+5                                                                      
+6                                                         I I I        
+7                                                   I     I I I        
+8                                     I I I I     I       I   I        
+9                           X       I     X       I I     I            
+0                                   I I                                
+1                                                         I            
+2               I                                       I              
+3               I   I                             I I I                
+4               I I I                           I I I   I              
+5               I I I                                   I              
+6           I I I I                                                    
+7             I                                                        
+8             I                                                        
+9                                                                      
+------------------------------------------------------------------------
+13
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                         I I I I     I I I I I        
+1                                         X I   I     I I     I        
+2                       I                               X              
+3                         I                                            
+4                 I I I I I                                            
+5                                                             I        
+6                                                         I   I        
+7                                         I         I     I I          
+8                           X         I   I I     I I     I I I I      
+9                                   I I           I I     I            
+0                                   I I   X                            
+1                                                         I            
+2               I                                 I     I              
+3               I   I                             I I I I              
+4               I I I                           I I I   I I            
+5               I I I                                   I              
+6           I   I I I                                                  
+7             I   I                                                    
+8             I                                                        
+9                                                                      
+------------------------------------------------------------------------
+14
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                         I I I I I   I I I I I        
+1                                       X   I   I     I I I I I        
+2                       I I                                            
+3                       I I                             X              
+4                 I I I I I                                            
+5                                                             I        
+6                                                         I I I        
+7                                         I       I I     I I          
+8                             X     I I   I I   I I I     I I I I      
+9                                   I I   X         I I   I            
+0                                   I I                                
+1                                                       I I            
+2               I                                 I   I I I            
+3                   I                           I I I I I              
+4             I I I I                           I I I   I I            
+5               I I I                               I I I              
+6           I     I I                                                  
+7           I I   I                                                    
+8             I                                                        
+9                                                                      
+------------------------------------------------------------------------
+15
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                         I I I I I   I I I I I        
+1                                         I I   I     I I I I I        
+2                     I I I             X       I                      
+3                       I I                           X                
+4                 I I I   I                                            
+5                   I     I                                   I        
+6                                                       I I I I        
+7                             X       I   I       I I     I I I        
+8                                   I I   I I   I I I     I I I I      
+9                                   I I     X     I I I   I            
+0                                   I                                  
+1               I                                       I I            
+2               I                                 I   I I I            
+3                   I                           I I I I I              
+4             I I I I                           I I I   I I            
+5               I I I                               I I I              
+6           I I   I I                                                  
+7           I I   I                                                    
+8             I                                                        
+9                                                                      
+------------------------------------------------------------------------
+16
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                         I   I   I   I I I I I        
+1                                         I I I I     I   I I I        
+2                     I I I                     I     X                
+3                     I I               X                              
+4                 I I I   I I                                          
+5                   I     I                               I   I        
+6                                                       I I I          
+7                           X         I   I       I I   I I I I        
+8                                   I I     X   I I I     I I I I      
+9                                   I I           I I I   I I          
+0                                   I                     I            
+1               I                                       I I            
+2               I   I                             I   I I I            
+3                   I                           I   I I I I            
+4             I I I I                         I I I     I I            
+5           I   I I I                             I I I I I            
+6           I I   I I                                                  
+7           I     I                                                    
+8             I                                                        
+9             I                                                        
+------------------------------------------------------------------------
+17
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                         I I I I I   I I I I I        
+1                                         I I I I   I I I I I I        
+2                     I I I                     I                      
+3                 I   I I             X               X                
+4                 I I I I I I                                          
+5                   I     I                               I   I        
+6                                                       I I I I        
+7                         X           I   I I     I I   I I   I        
+8                                   I           I   I I   I I I I      
+9                                   I I     X     I   I I I I          
+0                                   I                     I            
+1               I                   I                   I I            
+2               I   I                             I I I I I I          
+3               I I I I                         I I I I I I            
+4             I   I I                         I I I I   I I            
+5           I   I I                               I I I I I            
+6           I I I I I I                                                
+7           I     I                                                    
+8           I I                                                        
+9             I                                                        
+------------------------------------------------------------------------
+18
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                         I I I I I   I I I I I        
+1                                         I I I I I I I I I I          
+2                     I   I I         X         I     X     I          
+3                 I   I I                       I                      
+4                 I I I I I I                                          
+5                   I I   I                               I   I        
+6                                         I             I   I I        
+7                                     I   I I   I I     I I   I        
+8                         X       I I           I   I I   I I I I I    
+9                                     I       X I I I I I   I          
+0                                   I I                 I I            
+1               I                   I                   I I            
+2               I   I                           I I I I I I I          
+3               I I I I                         I I I   I I            
+4             I   I I                         I   I I   I I            
+5           I I I I I                             I I I   I            
+6           I I I I I I                             I                  
+7           I   I I                                                    
+8           I I                                                        
+9             I                                                        
+------------------------------------------------------------------------
+19
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I I I I     I I I I        
+1                                         I   I   I I I I I I          
+2                     I I I I                   I           I          
+3                 I   I I             X         I     X                
+4                 I I I I I I                                          
+5                 I I I   I I                             I   I I      
+6                                         I       I   I I   I I        
+7                                     I I I I   I I     I I   I I      
+8                       X         I I I         I I I I   I I I I I    
+9                                   I I     X   I I I I I I I I        
+0               I                   I I                 I I I          
+1               I                   I                   I I            
+2                   I                           I I I I I I I          
+3               I I I I                       I I I     I I I          
+4           I I     I                         I   I I I I I            
+5           I I I I I                             I I I I I            
+6           I I I I I I                           I I                  
+7           I   I I                                                    
+8           I I                                                        
+9             I                                                        
+------------------------------------------------------------------------
+20
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I I I I     I I I I        
+1                                       I I   I I I I I I I I          
+2                     I I I I                   I           I          
+3                 I   I I I                     I                      
+4                 I I   I I I I       X               X                
+5                 I I I I I I                           I I I I I      
+6                   I                     I       I   I I   I I        
+7                                   I I I I I I I I   I I     I I      
+8                     X           I I I         I I I I I I   I   I    
+9                                   I I       X I I I I I I I I        
+0               I                   I I                 I I I          
+1               I                   I                 I I I            
+2                   I                           I I I I I I I I        
+3               I I I I                       I I I I     I I          
+4           I I   I I                         I I I I I I              
+5         I I I I I I                             I I I I I            
+6           I I I I I I                           I I     I            
+7           I I I                                                      
+8           I I                                                        
+9             I                                                        
+------------------------------------------------------------------------
+21
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I I I I     I I I I        
+1                           I           I I I I I I I   I   I          
+2                     I I I I                   I           I          
+3                 I I I   I                     I           I          
+4                   I I I I I I         X                 I            
+5                 I I I I I I                           I I I   I      
+6                   I                     I       I   I I   I I        
+7                                   I I I   I I I I   I I I   I I      
+8                                 I I I         I I I I I I   I I I    
+9                                   I           X I I   I I I I        
+0               I                   I I I               I I I          
+1               I I                 I                 I I I            
+2                   I               I           I I I I I I I I        
+3               I I I I                       I I I I   I I I          
+4           I I   I I                       I I I I I I I              
+5         I I I I I I I                           I I I I I            
+6           I I I I I I                           I I     I            
+7           I I I                                                      
+8           I I                                                        
+9             I I                                                      
+------------------------------------------------------------------------
+22
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                           I I I I I   I I I I        
+1                           I           I I I I I I I   I              
+2                     I I   I I                   I       I I          
+3               I I I I   I             X       I           I          
+4                 I I I I I I I                 I         I            
+5               I I I I I   I                           I I I   I I    
+6                   I                   I I       I   I I   I I        
+7                                 I I I I I I I I     I I I   I I      
+8                                 I   I         X I I I I I I I I I    
+9                                   I               I I I I I I   I    
+0               I                   I I I           I   I I I I        
+1               I I                 I I         I   I I I I            
+2                 I I               I           I I I   I I I I        
+3               I I I I                       I I I I   I I I I        
+4           I     I                         I I I I I I I              
+5         I I I I I I I                           I I   I I            
+6           I I I I I I                           I I I   I            
+7             I I I                                                    
+8           I I I                                                      
+9             I I                                                      
+------------------------------------------------------------------------
+23
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                         I I I I I I   I I I          
+1                           I           I   I I I I I   I              
+2                       I   I I         X         I       I I I        
+3               I I I I I I                     I I         I          
+4                 I I I I I I I                 I         I     I      
+5               I I I I I I I             I             I I I   I I    
+6                 I I                   I I       I   I     I I I      
+7                                 I I   I I I I I I   I I I     I I    
+8                                 I I I           X I I I   I I I I    
+9                                 I I I           I I I I I   I   I    
+0               I                   I I I           I   I I I I        
+1                 I                 I I         I   I I I I   I        
+2                 I I               I           I I I   I I I I        
+3               I I I I                       I I I I   I   I I        
+4         I I     I I                       I I I I I I I              
+5         I I I I   I I                         I   I I I              
+6           I I I I I I                           I I I   I            
+7             I I I                               I       I            
+8           I I I                                                      
+9               I                                                      
+------------------------------------------------------------------------
+24
+got you
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                         I I I I I I   I I I          
+1                           I           X I I I I I I       I          
+2                       I   I I                 I I       I I I        
+3               I I I   I I                     I I         I          
+4                 I I I I I I I I               I       I I I   I      
+5               I I I I I I I             I       I     I   I I I I    
+6                 I I                   I I       I   I I   I   I      
+7                                 I I I I I I I I I I I I I     I I    
+8                                 I I I I           I   I I I I I I    
+9                                 I I I I         X I I I I   I   I    
+0               I I                 I I I           I I I I I I        
+1                 I I                 I         I   I I I I I I        
+2                 I                 I I       I I I I   I I   I        
+3                 I I                         I I   I I I   I I        
+4         I I I   I I                       I   I I   I I   I          
+5         I   I I I I I                         I   I I I I            
+6         I I I I I I                           I I I I   I            
+7           I I I I                               I       I            
+8           I I I                                                      
+9               I I                                                    
+------------------------------------------------------------------------
+25
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                       X I   I   I I   I   I I        
+1                       I   I I           I I I I I         I          
+2                       I I   I             I   I I       I   I        
+3               I   I I I I                       I         I          
+4                 I   I I I I I I               I I     I I I   I      
+5               I I I   I I I I           I       I   I I   I I I I    
+6                 I I                   I I   I   I I I I I I   I      
+7                                 I I I I I I I I I I I I I     I I    
+8                                 I I I I I       I I I I I I   I      
+9                                 I I I I       X   I I I I   I   I    
+0             I I I                 I I I           I I I I I I   I    
+1                 I I               I I         I   I I I I I I        
+2                 I                 I I       I I I   I I I I I        
+3                   I I                       I I I I I I   I I        
+4         I I I I I I                       I   I I I I I   I I        
+5       I I     I I I I I                   I   I   I I I I            
+6         I I I I   I I                         I I   I   I I          
+7           I I I I                               I   I   I            
+8             I I I                                                    
+9               I I                                                    
+------------------------------------------------------------------------
+26
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                         I   I I I I   I   I I        
+1                       I   I I         X I I I I I I   I I I I        
+2                       I I   I I           I   I I       I   I        
+3             I I   I I I I                       I         I I        
+4               I I I I I I I I I               I I     I I I   I      
+5               I   I   I I   I           I     I I   I I I I I   I    
+6                 I I                   I I   I   I I I I I I   I I    
+7                                 I I I   I I I I I I I I I I     I    
+8                                   I I I I       I I I I I I   I I    
+9                                 I   I I     X     I I I   I I   I    
+0             I I I               I I I I           I I I I   I   I    
+1                 I I               I I         I I I I I   I I        
+2               I I                 I I       I I I   I I I I I        
+3                   I I             I       I I I I I I I     I        
+4         I I I I I I                       I   I I I I I   I I        
+5       I I   I I I   I I                   I   I   I I   I            
+6         I I I I I I I                         I   I I   I I          
+7           I I I I                               I   I   I            
+8             I I I                               I       I            
+9             I I I                                                    
+------------------------------------------------------------------------
+27
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                                         I   I I I I   I   I I        
+1                       I   I I       X   I I I I I I   I I I I        
+2               I       I I I I I           I   I I I     I I I        
+3             I I   I I I                       I I         I I        
+4               I I I I I   I I I         I     I I     I I I I I I    
+5             I I I I   I I   I           I     I I   I I I   I I I    
+6               I I       I           I I I   I   I I I I I I I I I    
+7                               I I I I I I I   I I I I I I I   I I    
+8                                 I I I I I   X   I I I I I I   I I    
+9                                 I   I I           I I I   I I   I    
+0             I   I               I I I I         I I I I I I I   I    
+1                 I I I             I I         I I I I I I I I        
+2               I I                 I I       I I I I I I I I          
+3         I   I     I I             I I     I   I I   I I     I I      
+4         I   I I I I                       I   I I I   I I I I        
+5       I I   I I I I I I                   I   I   I I I I I          
+6         I I I I I I I                         I   I I I   I          
+7           I   I I                               I   I   I I          
+8               I I                               I       I            
+9             I I I                                                    
+------------------------------------------------------------------------
+28
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                             I           I   I I I I   I   I I        
+1                       I   I I         I I I I I I I   I I I I        
+2               I       I I I I I     X     I I I I I     I I I I      
+3             I I     I I       I               I I I   I I I I        
+4               I I I I I   I I I         I     I I     I I I I I I    
+5             I I I I I   I I I I       I I     I I I I   I   I I I    
+6               I I       I           I I I   I   I I I I I I I I I    
+7                               I I I I I I I X I I I   I   I   I I    
+8                                 I I I I I I     I   I   I I   I I    
+9                                 I I I I           I I I I I I   I    
+0             I   I I             I   I         I I I I I I I I   I    
+1                   I I             I I         I I I   I I I I        
+2               I I I                 I     I I I I I I I I I          
+3         I   I       I             I I     I   I I   I I   I I I      
+4         I I I I I I I                     I   I   I I I I I I        
+5       I     I   I I I I                   I I I   I I I I I          
+6       I I I I I I   I                     I   I   I I I I I          
+7           I   I I   I                         I I   I I I I          
+8               I I                               I       I            
+9             I   I I                                                  
+------------------------------------------------------------------------
+29
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                             I         I I   I I   I   I   I I        
+1                     I I     I I       I I I I I I I I I I I I        
+2               I     I I I I   I   X       I I I   I     I I I I      
+3             I I     I I I I   I               I I I   I I I I        
+4               I I I   I I I I I         I     I I     I I I I I I    
+5             I I I I I   I I I I       I I I   I I I I I I   I I      
+6               I I       I           I I I   I   I I I I I I I I I    
+7                               I I I I I I I   X I I   I I I   I I I  
+8                                 I I I I I I     I   I I I I     I I  
+9             I                   I I I I           I I I I I I   I    
+0             I   I I             I   I I       I I   I I I I     I    
+1                 I I I           I I           I I I I I I I I I      
+2               I I I               I I     I I I   I I I   I          
+3         I   I       I           I I I     I   I I   I     I I I      
+4         I I I I I I I                         I I I I I I I I        
+5     I I     I   I I I I                 I I I I   I I I I I          
+6       I I I I I I   I I                   I   I   I   I I I          
+7           I I I     I                         I I I I I I I          
+8                 I                               I       I            
+9             I   I I                                     I            
+------------------------------------------------------------------------
+30
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                             I         I I   I I I     I I I I        
+1                     I I   I I I   X   I I I I I I I I I I I I I      
+2               I     I I I I   I           I I I   I   I   I   I      
+3             I     I I   I I   I           I   I   I   I I I I I      
+4               I   I   I I I I I         I     I I     I I I I I I    
+5             I   I   I   I I I I       I I I   I I I I I I I I I      
+6               I I       I I         I   I   I X I I I I I I I I I    
+7                               I   I I I I I I   I I   I I I   I I I  
+8                                 I   I I I I   I I I I I I I I   I I  
+9             I                   I I   I           I I I I I I   I    
+0           I I   I I I         I I I I I       I I I I I I I     I    
+1                 I I I           I I             I   I   I I I I I    
+2               I   I I             I I     I I I I I I I I I I        
+3         I   I I     I           I I I I I I     I I I     I I I I    
+4       I I I I I I I I                     I   I I I I I I I I        
+5     I I I   I   I I I I                 I I I     I   I I I I        
+6       I I I   I I I I I                   I I I   I   I I I          
+7         I I I I I   I                         I   I I I I I          
+8               I I                               I       I I          
+9             I I I I                             I       I            
+------------------------------------------------------------------------
+31
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                       I     I         I     I I I     I I I I        
+1                     I I I I I I       I I I I I I I I I I I I I      
+2             I I     I I I I I I           I I     I   I   I I I I    
+3             I I   I I I I I   I         I I   I   I   I I I I I      
+4               I I I I I I   I           I     I I I   I I I I I I    
+5           I I I I   I I I I I I     I I   I   I I I I I I I I I      
+6               I         I I         I   I I I   I I I   I I I I I I  
+7               I             I I   I I I I I I X I I I I I I I I I I  
+8                                 I   I   I I I I I I I I I I I   I I  
+9             I                   I I   I           I I I I I I   I    
+0           I I   I I I         I I I I I       I I I I I   I I   I    
+1                 I   I           I I I         I I   I I I     I I    
+2             I I I I I             I       I I I I I I I I I I I      
+3         I I I I   I I           I I I I I I     I I I     I I I I    
+4       I   I I I I I I                     I   I I I I   I   I        
+5     I I I   I I I I I I                 I I I I   I   I I I I        
+6       I I I I I I I I I                   I I I I I   I I I          
+7         I I I I I I I                       I I   I I I I I          
+8             I I I I                           I I       I I          
+9             I I   I                             I       I            
+------------------------------------------------------------------------
+32
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                       I   I I         I   I I I I   I I I I          
+1               I     I I I I   I       I   I I I I I I I I I I I      
+2             I I     I I I I I I       I     I I   I   I   I I I I    
+3             I I   I I I I I   I         I I   I   I I I I I I I      
+4             I I I I I I I I I I       I I     I   I     I I I I I    
+5           I I I I   I I I I   I I   I I I I   I   I I I I I   I      
+6             I I     I   I I       I I I I I I I I I I   I I I I I I  
+7               I             I I   I I I I   I   I   I I I I I I I I  
+8                               I I   I     I I X I I I I I I I   I I I
+9             I                   I I I             I I   I I I   I    
+0           I I   I I I         I I I I I       I I I   I I I I        
+1                 I I I           I I I I       I I I I I I     I I    
+2             I I I I I             I     I I   I I I   I I I I I      
+3         I I I I I I             I I I I I I   I I I I   I I I I I    
+4       I   I I I I I I               I     I I I I I I   I            
+5     I I I I I I I I I I                 I   I I I I   I I I I        
+6       I   I I   I I I I                 I I I   I I I I I            
+7         I   I I I I I                       I I I I   I I I          
+8             I I   I                           I I       I I          
+9           I I I   I                             I       I            
+------------------------------------------------------------------------
+33
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                     I I   I I I     I I   I I   I   I I I I   I      
+1               I     I   I I   I I     I I I I I     I   I I I I      
+2             I I I   I I   I I         I   I I I   I I I   I I I I    
+3             I I   I   I I I   I         I I   I I I I I I I   I I    
+4             I I I   I I I I I I       I I     I I I   I I I I I I    
+5           I I I I I I I I I I I I   I I I I I     I   I I I   I      
+6             I I     I   I I I I   I I I I I   I I I I I   I I I   I  
+7               I             I I   I I I I I I   I   I I I   I I I I  
+8                               I I I I I I I I     I I I I I I     I I
+9             I I                 I I I         X     I   I   I   I    
+0           I     I I I         I I I   I       I I I   I I I I   I    
+1               I I I I         I I   I I   I   I   I I I I     I I    
+2             I I I I I             I I   I I   I I I I   I I I I      
+3       I I I I I I I           I I   I I I I   I   I I   I I I I I    
+4       I I I I   I I I               I     I I I I   I I I I I        
+5   I I   I I I I I I I I                 I I I I I I   I I I I        
+6     I I I I I   I I I I I               I I I   I   I I I            
+7         I I I I I I I                     I I I I I I I I I          
+8             I I   I                           I           I          
+9           I I I I I                           I I     I I I          
+------------------------------------------------------------------------
+34
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                     I I   I I I     I I   I I   I I I I I I I I      
+1               I     I I I I   I I   I I I I I I     I I   I   I I    
+2             I I I   I I     I I       I   I I I     I I     I I I    
+3             I I   I I I I I I I I       I I   I I I I I I I   I I    
+4             I I I I I I I I I I       I I I I I I I I I I I   I I    
+5           I I I   I I I I I I I I   I I I I I   I I   I I I          
+6             I I     I I   I I I   I I I I I   I I I I I   I   I I I  
+7               I             I I I I I I I I I   I   I I I I I   I I I
+8             I                 I I I I I I I I     I I I I I I   I I I
+9             I I                 I I I       I     I I   I       I    
+0         I I     I I I       I I   I   I       X I I I   I I I   I    
+1               I I I I         I I I I I   I   I I I I I I   I I I    
+2             I   I I I           I I I   I I     I   I   I I I I      
+3       I I I I I I I           I I     I I I   I   I I   I I I I I    
+4       I I I I   I I I           I   I     I I I I I I I   I I        
+5   I I I I I I I I I I I                 I I I I I I     I   I        
+6     I I I I I     I I I I               I I I I I   I   I            
+7         I I I   I I I                     I I I I I I I I            
+8             I I I I                           I I I       I          
+9           I   I I I                           I I     I I I          
+------------------------------------------------------------------------
+35
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                     I I   I I I     I I   I I   I I I I I I I I      
+1               I     I I I I I I I   I I I I I   I   I I   I I I I    
+2             I   I I I     I I I       I   I   I     I I I   I I I    
+3             I I I I I I I I I I I     I I I     I I I I I I   I I    
+4             I I I I I I I I I I     I I   I I I I I I I I I I I      
+5           I   I I I I I I   I   I I I I I I I   I I   I I I          
+6             I       I I   I I I   I   I I I I I   I   I   I   I I I I
+7               I I         I I   I I I   I I I   I I I I I I I I I I I
+8             I                 I I I   I I   I     I I I I I I   I I I
+9           I I I     I           I I I I     I     I I   I       I    
+0         I I     I   I       I I   I   I           I I   I   I   I    
+1           I   I I I I         I I I I I   I   X I I I I I   I I I I  
+2             I   I I I I         I I I I I I     I I I I I I I I      
+3       I I I I I I I           I I   I I I I   I   I I   I I I I I    
+4       I I I I I I I             I I I   I I I I I I   I   I I   I    
+5   I I I I I I I I I I I                 I I I I I I   I I   I I      
+6     I I I I I   I I I I I               I I I I I I I                
+7         I I I I I I                       I I   I I I   I I          
+8             I I I I I                       I I I I     I I          
+9           I   I I                             I I     I I I          
+------------------------------------------------------------------------
+36
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                     I I   I   I     I I I I I   I I I I I   I I      
+1               I     I I I I I I I I I   I   I I I     I I I I I I    
+2             I I I I I     I I I       I I I   I I   I I I I I I I I  
+3             I I I I I I   I I   I     I I I     I I I I I I   I I    
+4           I I I I I I I   I I I I   I I I I I I I I I I I I I I      
+5           I I I I I I I I I I   I I I I I I I   I       I I       I  
+6             I       I I I I I I I I   I I I I I I I I I   I   I I I I
+7               I I         I I   I   I   I I I I I I I I I I I I I   I
+8             I I             I I I I I I I I I     I I I I I I   I I I
+9           I I I I   I           I I I I I   I     I I   I   I   I    
+0         I I I   I I I       I I I I I             I I   I I I   I    
+1           I   I I I I         I I I I I   I     X I I I I I I   I I  
+2             I I I I I I         I I I I I       I I I I I I I I      
+3       I I I I I I I           I I   I I I I   I I I I I I I I I I    
+4     I I I   I I I I             I I I   I I I I   I   I I I I   I    
+5   I I I I I I I I I I I                 I I   I I I   I I   I I      
+6     I   I I I   I I I   I               I I I I I I I   I            
+7         I I   I I I     I               I I I I I I I I I I          
+8             I I I I I                       I I I I     I I          
+9           I I I I                             I I     I   I          
+------------------------------------------------------------------------
+37
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                     I I   I I I I   I   I I     I I I   I   I I      
+1               I I   I I I I I   I I I   I I I I I     I I I I I I    
+2             I I I I       I I I       I I I   I I   I   I I I I I I  
+3             I I I I I I   I I I I     I I I   I I I I I I I I   I    
+4           I I I I I I I I I I I I   I I I I I   I I I I   I I I I    
+5         I I I I I I I I I I I I I I I I I I I   I   I I I     I   I  
+6             I I   I I I I   I I I I I I I I I I I I I I   I   I I I I
+7               I I         I I I I   I   I I   I I I I I   I I I I   I
+8             I I             I I I I I I I I I     I I I I I I   I I I
+9           I   I I   I           I I I I I I I     I     I   I   I    
+0         I I I   I I I       I I I I I               I I I I I   I    
+1           I I I I I I         I   I I I   I       X I I I I I I   I  
+2             I I I I I I       I I   I I I I       I I I   I   I      
+3     I I I I I I I I           I     I   I I I I I   I I I I I I      
+4     I I I I I I I I             I I I   I I I I I I I I I I I   I    
+5   I I I I I I I I I   I I               I I   I I   I I I     I      
+6   I I I I I I   I   I   I I           I I I I I I I I   I            
+7         I I I I I I I   I               I I I I I   I I I I          
+8           I I I I I I                       I I I I I   I            
+9           I I   I                             I       I I I I        
+------------------------------------------------------------------------
+38
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                     I I   I I I I   I   I I     I I I       I I      
+1               I I   I I I   I I I I I I I I I I I I I I I I I I I    
+2             I I I I   I   I   I       I I I   I I   I   I I I I   I  
+3             I   I   I     I I I I     I I I   I I I I I I I I   I    
+4           I I I I I   I I I I I I   I I I I I I I   I I   I I I I    
+5         I I I I I I I I I I I I I I I I I I I   I I I I I I   I I I  
+6             I I   I I I I I I I I I I I I I I I I I I I       I I I I
+7             I   I         I I I I I I   I I I I   I   I I I I I I I I
+8             I I I           I I I I I I I I       I I I I       I I I
+9           I   I I   I         I I I I I I I I     I     I   I   I    
+0         I   I I I I       I I   I   I               I I I I     I    
+1           I I I I I I I       I   I   I I I I   X   I I I I I I I I I
+2             I I   I   I       I I I I I I I   I   I I I I I   I      
+3     I I I   I I I             I I   I     I I I I   I I I I I I      
+4     I   I I I I I I             I I I   I   I I I I I I I I I   I I  
+5   I I I   I I   I I I I I               I I     I   I I I I I I      
+6   I I I I I     I I I I I I           I I I I I I I I   I            
+7           I I I I I I   I               I I I I I I I I I I          
+8           I I I I I I                     I I I I I I   I            
+9           I I   I   I                         I       I I I I        
+------------------------------------------------------------------------
+39
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                   I I     I I I I   I   I I     I I I       I I      
+1               I I   I I     I I I I I I I I   I I I I I I I I I I I  
+2               I I I   I   I I I I       I I I I I I I I I I   I I I  
+3           I I   I I I     I I I I   I I   I   I I I   I I I I   I    
+4           I I I I I   I I I I   I   I I I I I I I   I I     I   I    
+5         I   I I I I I I I I I I   I   I I I I   I I I I I I   I I I I
+6             I I I I   I I I I I I I I I I I I I I I I I I       I I I
+7             I   I     I   I   I I I     I I I I   I I I I I I I   I I
+8             I I I   I     I I I I I I I I I       I I I   I   I I I  
+9           I I I I   I         I I I   I I I I I I I   I I I I   I    
+0       I I   I I   I I     I I I I I I             I I I   I I   I I  
+1           I I I I   I I     I I   I I   I I I       I I I I I I I I I
+2         I     I   I I I       I I I I I I I   I X I I I I I          
+3     I I I I I I I     I     I I I   I     I I I I     I I I I I      
+4   I I   I I   I I               I I     I I I I I I I I I I I I I I  
+5   I I I   I I I   I I I I               I I   I     I I   I I I I    
+6   I I I I I   I I I I I I I           I I I I I I I I I I     I      
+7         I I I I I   I   I               I I   I I I I I I I          
+8           I   I I   I   I                 I I I I I I I I            
+9           I I   I   I                         I     I I I I I        
+------------------------------------------------------------------------
+40
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                   I I       I   I   I   I       I I   I     I I      
+1                 I I I I     I I   I I I   I I I I I I I I I I I I I  
+2               I   I   I I I I I I     I I I I   I I   I I I I I I I  
+3           I I I I I I     I I I I   I I I I   I   I I I I I I   I    
+4           I   I I I   I I I I   I   I I I I I I     I   I   I   I    
+5         I   I I I I I I I I   I I I I I I I I   I I I I I I   I I I I
+6               I I I I I I I   I I   I   I I I   I I I   I     I I I I
+7             I I I     I   I I I I I I   I I I I   I I   I I I I I I I
+8             I I I   I     I I   I   I I   I I     I I I I I I I I I  
+9           I I   I I I         I I I   I I I I I I I I I I I I   I I  
+0       I I I I I I I I     I I I I I I I           I I I   I I     I  
+1         I I I I I   I I     I I I I I   I I I       I I I I I I I I I
+2         I I   I I I I I I     I I I I I   I   I   I   I I I   I      
+3     I I I I I I       I     I I I I I I I I I   X I   I   I I I      
+4   I I   I I I I I               I I     I I I I I I I I I   I I I I  
+5   I I I   I I I I I I   I I             I     I   I I I   I I I I    
+6   I I I I I I I I I   I I I           I I I I I I I   I I     I      
+7   I     I I I I I   I   I             I I     I I I I I I I I        
+8           I I I I I I   I                 I I I I I I I I            
+9             I       I                       I I     I I I   I I      
+------------------------------------------------------------------------
+41
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                 I I         I I I     I I       I     I       I      
+1                 I I I       I I I I I I   I I I I I I I I I I I   I  
+2             I I   I I I I I I I I     I I   I   I I   I I I I I I I I
+3           I I I I I     I I I I I   I I I I I I I I I I I I I I      
+4         I I   I I I     I I I I I   I I I   I I I   I   I   I I I    
+5       I I   I I I   I I I I   I I I I I I I I   I I I I I I   I I I I
+6               I I I I I I I     I I I I I I I I I I I   I     I I I I
+7           I I I I     I   I I I I I I I I   I I   I I   I   I I I I  
+8           I I I I   I     I I I I I I I I I I     I   I I I I I I I  
+9           I I I I I I         I I I I I I I   I I I I I I I I   I I  
+0       I I I I I I I I     I I I I I I I I   I     I I I I I I   I I  
+1         I I I I I   I I     I   I   I   I   I       I I I I I I I I I
+2     I   I I I I I I I I I   I I I I I I   I   I   I I I I I   I      
+3     I I I I I I I I   I     I I I I I I I I I X I I   I I I I I   I  
+4   I I     I I I I       I       I I     I I I I I I I I I I   I I I  
+5     I I   I I I I I I I I I             I     I   I I I   I I I I    
+6   I   I   I I I I I   I I I           I I I I   I I I I I I   I      
+7   I     I I I I I   I I I             I I I I I I I I I I I I        
+8         I I I I   I I   I               I I I I I   I I I I          
+9             I       I I                     I       I I I   I I      
+------------------------------------------------------------------------
+42
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                 I I         I I I     I I       I     I       I      
+1                 I I I I     I I I I   I I I I I   I I   I I   I I I  
+2             I I I I I I I   I I I     I I I I   I I I I   I I I I I I
+3           I   I   I     I I I I I   I   I I I I I I I I I I I I      
+4         I I     I       I I I I I   I I I I I I I   I   I I   I I    
+5       I I I I I     I I I I I I I   I I I I I   I I I I I I I I I I I
+6             I I I I I I I I     I I I I   I   I I I I I I I   I   I  
+7           I I I I     I     I I I I I I I I I I     I I I   I   I I  
+8           I   I I   I     I I I I I I I I I I     I   I I I I I   I  
+9           I I I I I I         I I I I   I I I I I   I I I I I I I I  
+0       I   I I I I I I I I I I I I I I I I   I     I I I I I I   I I I
+1         I   I I I     I     I   I   I   I I I I     I I   I I I I   I
+2     I   I I I I I I I I I   I I   I I   I I I I   I I I I I   I      
+3     I I I I I I I I I I     I I I I I I I   X   I I   I I I I I   I  
+4   I I     I I I I       I       I I     I I I I I   I I I I I I   I I
+5   I I I   I I I I   I I I I           I I I   I   I I I   I I   I I  
+6   I I I   I I I I I   I I I           I I I I   I   I I I I   I I    
+7   I   I I I I I I I I I I I           I I I I I I I I I I   I        
+8         I I I I   I     I               I I I I     I I I I          
+9           I I     I I I I                 I I       I I I   I I      
+------------------------------------------------------------------------
+43
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                 I I I     I I I I     I I     I I I I I       I      
+1                 I I I I       I I     I I I I     I I   I I   I I I  
+2             I I I   I I I   I I I     I   I I     I I I I I I   I   I
+3           I   I   I     I I I I I   I I I I I I I I I I   I I I      
+4         I I   I I I     I I   I       I   I I I I   I I I I   I I    
+5       I I I   I     I I I   I I I   I I I I I I I I I I I I I I I I I
+6             I I I I I I   I I     I I I I I I I I I I I I I   I I I  
+7           I I I I     I I   I I I I I I I I I I     I I I I I   I I  
+8           I I   I I I I   I   I I I   I I I I   I I   I I I I I I I  
+9           I I I   I       I   I I   I     I I I I   I I   I   I I I I
+0       I   I I I I I I I I I I I I I   I I   I I   I I I I I I   I I I
+1       I I   I I I     I   I I   I I I I I I I I   I I I I I I I I I I
+2     I   I I I   I I I I I   I I I I I   I I I I I   I   I I   I     I
+3   I I I   I   I I I I I     I I I I   I I       I I   I I I I I   I  
+4   I I     I I I I       I       I         I X I I   I I   I I I I I I
+5   I I I   I I I I I I I I I I         I I I I I   I I     I I I I I  
+6   I I I I I I I I I   I I I           I I I I   I   I I   I I I I    
+7   I   I I I I   I I I I I I           I I I I   I I I I I   I I      
+8         I I I I I I     I               I I   I I   I I   I          
+9           I   I   I I I I                 I I     I I I I   I I      
+------------------------------------------------------------------------
+44
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                 I I I     I I I I     I     I I I I I I       I      
+1                 I I I I       I I I   I I I I     I I   I I   I I I I
+2             I I I   I I I I I I I I I I   I I I   I I I I   I I I   I
+3         I I I I   I     I I I   I   I I I I I I I I I   I     I I   I
+4         I     I I I     I I   I     I I   I I I I   I I I I   I      
+5       I I I I I     I I I I I   I I I   I   I I I I   I I I I I I   I
+6             I   I I I I I I I   I I   I I I I I   I   I I I   I I I I
+7           I I I I   I I I   I I I I I I I I I     I I I I I I   I I  
+8           I I   I I I I   I I I I I I I I   I I I I     I I I I I    
+9           I I I   I       I   I I I I I I I I I I I I I I I I I I I I
+0     I I I I I I I I I I I I I I I I I I I   I I   I I I I I I I I I I
+1       I I   I I     I I I I I I I I I I I I I I   I I I I I I I I I I
+2     I I I I I I I I I I I   I I I I I   I   I I I   I   I I   I     I
+3   I I I   I I I I I I I   I I I I I I I I I     I I I I I   I I   I  
+4   I         I I         I       I       I I   I I     I I I I I I I I
+5   I I I   I I I I I I I   I I         I I I X I I I I     I I I I I  
+6     I   I I I I I I   I I             I I I I   I I I I I I I I I    
+7 I I   I I I I   I I   I I I           I   I I I I I I   I I I I      
+8         I I I I I I     I I             I I   I I     I   I   I      
+9           I   I   I I I I               I I I I   I I I       I      
+------------------------------------------------------------------------
+45
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                 I I I     I   I     I I I   I I   I I I   I   I      
+1                 I I   I I     I I I   I I   I I     I   I I     I I I
+2             I I I   I   I I I I I I I I I I I I   I I I I I I I I I I
+3         I I I I I I   I I I I I I   I I I   I I I I I I I     I I   I
+4         I I   I I I     I I   I I   I I I I I   I I I I I I I I      
+5       I   I I I I   I I I I I   I I I I I   I I I     I I   I I I I I
+6           I I   I I I I I I I   I I I I I I I I I I   I I I   I I I I
+7           I   I I   I I I I I I I   I I   I       I I I I I I   I I  
+8           I I I   I I I I I I I I I I I I   I I I I   I I I I I I I  
+9       I   I I I   I I     I     I I I I I   I I I I I I I I I I   I I
+0     I I I I I I I I I I I I I I I I I I I I I I I I I   I I I I I I I
+1       I I I I I     I I I I I I I I I I I I   I   I I I I I I I   I  
+2     I I I I I I I I I I I   I   I I I I I   I I I   I I   I   I     I
+3   I   I   I I   I I I I I I I I   I I I I I     I I I I I I   I I I  
+4 I I   I   I I I I I   I I   I   I I     I I   I       I I I I I I   I
+5   I   I   I I I I I I I   I I         I   X   I I I I I     I I I I I
+6   I I   I I I I I I     I I           I I I I I I I I I I I I I I    
+7 I I   I I I I     I   I I I           I I I I I I I I I I I I I      
+8         I I I I I I     I I             I     I I     I I I   I      
+9           I   I   I   I I               I I I I   I I I       I      
+------------------------------------------------------------------------
+46
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                 I I I     I   I     I I I   I I   I I I   I   I I    
+1                 I I I I I     I I I   I I   I I         I I     I   I
+2           I I I I I I   I I I I I I I I I I   I     I   I I I I I I I
+3         I I I I I     I I I I I I   I I I   I I I I I I I     I I   I
+4       I I I   I I I     I I   I I   I I I I I   I I I I I I I I      
+5       I   I I   I I I   I I I I I I I I I   I I I I   I I   I I   I I
+6           I I   I I I I I I I   I I I I I   I I I I I I I I   I I   I
+7           I I I I I I I I I I I I   I I   I I     I   I   I   I I    
+8         I I I I   I I I I I I I I I I I I   I I I     I I I I   I I  
+9       I   I I I   I I I I I     I I I I I   I   I I I I I I I I   I I
+0     I I I I I I I I   I I I I   I I I I I I I I I I I I I I I I I I I
+1       I I I I I I   I I I I I I I I I I   I I I   I I I I I I I   I I
+2     I I I I I I I I   I I   I I I I I I I   I I I   I I I I   I   I I
+3   I I I   I I I I I I   I I I I I I I I I I     I I I I I I   I I I  
+4 I I   I   I I I I I   I I   I   I I   I I X   I       I I I I   I   I
+5 I I I I   I I   I I I I   I I         I       I I I I I   I   I I I I
+6   I I I I I I I I     I I I           I I I   I I I I I I I I   I    
+7 I I   I   I I   I I   I I I I       I I I I I I I   I I   I I I I    
+8       I I I I   I I       I           I I I   I I     I I I I I      
+9           I   I I I I I I I             I I I I I I I I       I      
+------------------------------------------------------------------------
+47
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                 I I I I   I   I   I I I I   I I I I I I   I   I I    
+1                 I I I I I I   I I I   I I   I I         I     I I I I
+2           I I I I I I   I I I I I I I I I I   I     I   I I   I   I I
+3         I   I   I I   I I I I I I     I   I I I I I   I I     I I I I
+4       I I I   I   I     I I   I I   I I I I I I I I I I I I I I      
+5     I I   I I I I I I   I I I I I I I I I   I I I I I I I   I I I I  
+6           I I     I   I I I I   I I I I I   I I I I I I I I   I I I I
+7           I I I I I I I I I   I I   I I I I I     I   I   I I I I    
+8         I I I I   I   I I   I I I I I I I I I I I     I I I I   I I  
+9       I   I I I   I I I I I I     I I I I   I     I     I   I I I   I
+0     I   I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+1     I I   I I I I   I I I I   I   I I I   I I I   I I   I I I I   I I
+2   I I I     I I I I   I     I I I I I I I I I I I   I I I I       I I
+3   I I I I   I I I I I   I I   I I I I   I I I I I   I I I I I I I I I
+4 I     I   I   I I I   I I   I I I I   I I     I       I I I I   I I I
+5 I I I I   I I I   I I I I   I         I I X     I   I I I I I I I I I
+6   I I I I I   I I     I I I I         I I I   I   I I   I I I I I I  
+7 I   I I I I I   I I I I I I I       I I I I I I     I I   I   I I    
+8       I I I   I I I       I I         I I I I   I I     I I I I      
+9           I   I I I I I I I           I I I I I I I I I              
+------------------------------------------------------------------------
+48
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                 I I I I   I I     I I I I   I I I I I     I   I I    
+1                 I   I I I I   I   I I I I   I I     I   I I   I I I I
+2           I I I I I   I   I I I I I I   I I   I   I I I I I   I I I  
+3         I I I   I I   I I I I I I     I   I   I   I I I I       I I I
+4       I I I I I I I     I     I I I I   I I I I   I I I I I I I     I
+5     I I   I I I I I I I I I I I I I I I     I I I I I I I I I I I I  
+6         I I I   I I   I I I I   I   I   I   I I I I I I I I     I I I
+7           I I I I I I I I I I I I     I I I I     I   I   I I I      
+8         I I I I   I I I I   I   I   I   I I I I I     I   I   I I I I
+9       I   I I I   I I I I I I     I   I I I I I I I I I I I I I I   I
+0   I I   I I I I   I I I I I I I I I I I   I I I I I I I   I I I I I I
+1     I I I I I I I I I I I I I I   I I I I I I I   I I   I I I I   I I
+2   I I I     I I I I   I     I I I I   I I I I I I     I I     I   I I
+3 I I I I I   I I I   I I I I I I I I I     I I I I   I I I I I I I I I
+4 I     I   I I I I I I I I   I I I I   I I I   I I       I   I I I I I
+5 I I I I     I I   I I I I   I       I I I   X   I I I I I I I I I I I
+6   I I I I I   I I I   I   I I         I   I   I I I     I I I I I I  
+7 I   I I I I I   I I I I I I I       I   I I I I       I   I   I I    
+8       I I I   I I         I I         I I I I I I I     I   I I      
+9           I   I I I I   I I           I I I I I I I I I              
+------------------------------------------------------------------------
+49
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                   I I I I I I     I I I I   I I I I I   I I     I    
+1               I I   I I I I I I I I I I     I I   I I   I I   I I I I
+2           I   I I I I I I I I   I I I   I I   I   I I I I I I I I I  
+3         I I I I I I   I   I   I     I I I I   I I I I I I I I   I I I
+4       I   I I I I I   I I I   I I I I   I   I I   I   I I   I I I   I
+5     I       I I I I I I I I I I I I I I I   I I I I I I   I I I I I I
+6         I I I   I I I I I I I   I I I   I   I   I I I   I     I I I I
+7             I I I I I I I I I I I       I   I I I I I I   I I I I   I
+8         I I I I   I I I I   I I I I I     I I I I I I I   I   I I I I
+9       I   I I I   I I I I I I   I I I I I I I I I I I I I I I I I   I
+0   I I I I I I I I I I   I I I I I I I I I I I I I I I I I I I I   I I
+1     I I I I I I I I I I I I I I   I I I I I I I   I I I I I I I   I I
+2   I   I     I I I I I I       I I I I I   I I I I     I I     I   I I
+3 I I I   I   I I   I   I I I I   I I I     I I I   I I I I I I I I   I
+4 I     I   I I I I I I I     I I I I   I I I I I I     I I I I I I I  
+5 I I I       I I   I I   I   I       I I I X     I I I I I I I I I   I
+6   I   I I I I I I I   I   I I         I I I I I I I I I I I I I   I  
+7 I I I   I I I   I   I   I   I       I   I     I       I I I   I I    
+8 I     I   I   I I       I I I         I I I I I I I     I I I I I    
+9               I I I I     I I         I I   I I I I I                
+------------------------------------------------------------------------
+50
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                   I I I I I I I   I I I I   I I I I I   I I I I I    
+1               I I   I   I I I I I I I I I   I I I I I   I I   I   I I
+2           I   I I I I I I I I I I I I   I     I   I   I I I I I I I  
+3       I I I I I I I   I I I   I I   I   I I   I I I I I I I I   I I I
+4       I   I I I I     I I I   I I I I I I I   I   I   I I I I I I I I
+5     I     I I I I I I I I I   I I I I I I   I     I I I   I I I I I I
+6         I I     I I I I I I     I I I I I       I I I I I     I I I I
+7             I I I I I I I I I I         I I I I I I I     I I I I I I
+8       I I I   I     I   I I I I I I I     I I I I I I I   I   I   I I
+9     I I   I I I   I I I I I I   I I I I I I   I I I I I I I I   I    
+0   I I I I I I I I I I I   I   I I I I I I I I   I I   I I I I I   I  
+1     I   I I I I I I I I I   I I   I I I I   I       I I I I I I   I I
+2   I I I     I I I I I       I I   I I I I I   I     I I I I   I   I  
+3 I I I I I   I I I I   I I I I I I I I     I I I   I I I I I I   I I I
+4 I I   I I I I I I I I I   I I I I I   I I I I I I     I I I   I   I I
+5 I I I         I   I I   I           I   X       I I I I I I I I I I I
+6 I I I I I I I I I I   I I I I       I I I I I I I I I I I I I I I I I
+7 I I I   I I I   I   I I I   I       I   I I   I I     I I I I I I    
+8 I   I I   I I I         I I I       I I I I I I   I I   I I I I I    
+9               I I   I   I I I         I I   I I I I I   I            
+------------------------------------------------------------------------
+51
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                   I I I I   I I   I I I I   I   I       I I I I I    
+1           I   I I I I I I I I I I   I I I   I I I I I   I I I I I I  
+2           I     I I I I I I I I I   I I I         I I I I I I I I I  
+3       I I I I I I I   I I I I I I   I   I I I I I   I I I I I     I I
+4       I   I I   I I   I I I   I I I I I I I   I   I   I I I I I I I I
+5     I I   I I I I I   I I I I I I   I I I   I     I I I   I I I I I I
+6     I   I I     I I I I   I     I I I I I       I I I I I     I   I  
+7           I I I I I I I I I I I I       I I I I I I I   I   I I I I I
+8       I I I   I     I   I I   I   I       I I I I I I I   I I I I I I
+9     I I     I I   I I I I I I   I   I   I I   I I I I I I I I   I I  
+0   I I I I I   I I   I I   I I I   I   I I I I   I I   I I   I     I I
+1     I I I I I I I I I I I   I I   I I   I I I       I I I I I I   I I
+2 I I I I     I I I   I       I I I I I I I I I I     I I I I   I I I I
+3 I   I I I     I I I I I I I I I I I       I I I   I   I I I I I I I I
+4 I I   I I I I I I I I I I I I I I I   I I I I   I   I I I I   I   I I
+5 I I I I       I     I I I I         I X X         I I I I I I I I I I
+6 I I I I     I I I I   I I I I       I I I   I I I   I I I I   I I I I
+7 I I I I I I I   I   I I     I I     I   I I   I I     I I I I I I    
+8 I   I I   I I I         I   I I     I I I I I I I I I I I I I I I    
+9           I   I I I I   I I I       I I   I I   I I I   I   I        
+------------------------------------------------------------------------
+52
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                 I I I I I   I I   I I I I       I       I I I I I    
+1           I   I   I I I I I I I I I I I I   I   I I I I   I I I I I  
+2         I I     I I I I I I I I I   I I I I I   I I I I I I I I I    
+3       I   I I I I I I I I I I I I   I   I I I I I   I     I I     I I
+4     I I     I I I I   I I I I I I I I I   I I I   I   I I I I I I I I
+5     I I I I   I I I I I I I I I I I I I I I I     I I I   I I I I I I
+6     I   I       I   I I   I     I I   I I         I I I I I   I I I I
+7           I I I I I I I I I I I I     I I I I I I I I   I I I I I I I
+8       I I I I     I I   I I   I   I       I I I I I I I   I I I I I I
+9     I I I I I I   I   I I I I I I I I I   I   I I I I I   I I   I I  
+0   I   I   I   I I I I I I I I I   I   I I   I   I I   I I I I     I I
+1     I I I   I I I I I I   I I     I I   I I I I       I I   I I   I I
+2 I I I   I   I I I I I I     I I I I I I I I I I     I   I I   I I I I
+3 I I I I I     I I I I I     I I I I I       I I   I     I I I I I I I
+4 I I I   I I I I     I I I I   I I   I I I I I I I   I I I I   I I I I
+5 I I I I     I I I   I I I I I I     I X X I     I I I I I I I I I I  
+6 I I I I     I I I I I I I   I       I I I   I I I   I I I I   I I I I
+7 I I I I I I     I   I I     I I     I     I   I I I I I I   I I I    
+8 I   I I   I I I I   I   I   I I     I I I I I I I I I I I I I   I    
+9       I   I   I I I I   I I I       I I   I I   I I I   I   I        
+------------------------------------------------------------------------
+53
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                 I I I I I   I I I I   I         I       I   I I      
+1           I   I I I I I   I I I I I I   I   I   I I I I I I I I I I I
+2         I I   I I   I I I I I I I   I I   I I   I I I I I   I I I    
+3       I I I I I I I I   I   I   I   I I I I I I I   I I   I I   I I I
+4     I I   I I I I I I I   I I I   I I I I I I I       I I I   I I I I
+5     I I I I   I I   I I I I I   I I I I I I I I   I I   I I I   I   I
+6     I I I       I   I I I I     I I I I I I       I I I I I I I I I I
+7           I   I I I I I I   I   I     I I I   I I I I   I I I I I I I
+8       I I I I     I I     I I I I I I     I I I I I I     I I I I   I
+9   I I   I I I I   I I   I I I I I I I I   I I I I I I I   I I   I I  
+0   I   I I I   I I I I I I I I I I I   I I I I I   I     I I I   I I I
+1   I I I I     I   I I I   I I     I I   I I   I     I I I   I I   I  
+2 I I I   I   I I I I I I     I   I I I   I I I I     I   I I I I I I I
+3 I I   I I   I I I I I I I   I I I I I       I I   I I   I I I I I I I
+4   I I I I I I I   I I   I I   I I I I X X I I I I   I I I I   I I I I
+5 I I I I     I I I     I I I I I I   I   X I     I I I I I   I I I I I
+6 I   I I   I I I I I I I I I I       I   I I I   I   I I I I   I I I I
+7 I I I I I I I   I   I I I     I     I     I   I I I I   I   I I      
+8 I I I I     I I I   I   I   I I   I I I I   I I I I I I   I     I    
+9       I   I   I   I I   I I I       I I I I I I   I I I I   I   I    
+------------------------------------------------------------------------
+54
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0                 I I I I I   I I I I   I                 I I I I      
+1           I   I I I   I I I I I I I I I I I I   I I I I I I I I I I I
+2         I I   I I I I I I I   I I   I I   I I   I I I I I   I I I    
+3     I I I I I I I I I I I I I I I I I I I I I I I   I I I I I   I   I
+4     I     I I I I I I I   I I I   I I I I I I I       I I I I I I I I
+5     I I I I I   I   I I I I I   I I I I I I I I   I     I I I   I   I
+6     I I I       I I I I I       I I I I I I     I I I I   I I I I I I
+7       I I I I I I   I   I I I   I     I   I I I I I I I I I   I I I I
+8       I I I I   I I I     I I I I I I       I I I I I I I   I I I I I
+9   I I I I I   I I I I I I I   I I I I I   I I I I I I I I I I   I I I
+0 I I I I I I   I I I   I I   I   I I   I I I I I   I   I I I I   I I I
+1   I I I I     I I I I     I I     I     I I I I     I I I   I I   I  
+2 I I I   I I I I I I I I     I I I I I I I   I       I I   I I I I I I
+3 I I I I     I I I I I I I I I I I I I         I I I I I I I I I I I I
+4 I I I I I I I I   I I   I I     I I X X   I I I I   I I I I   I I I I
+5   I I I I   I   I     I   I I I I   I   X X     I I I I       I I I I
+6 I   I     I I I I I I I I I   I     I   I I I I I I I I I I I I I   I
+7 I I I I I I I         I I     I           I   I I I I I I I I I      
+8 I I I     I I I I   I   I   I I   I I   I I   I I   I I   I   I I    
+9       I I I   I   I     I I I       I I I I I I   I I I I   I I I    
+------------------------------------------------------------------------
+55
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0           I   I I   I I I     I I     I                 I I I I      
+1           I   I I I I I I I I I I I   I I I I I I I I I I   I I I   I
+2         I I   I I I I   I I I I     I I   I I I I I I I I I I I      
+3     I I I I I I I I I I I I I I I I I I I I I I I     I I I I   I   I
+4     I I   I I I I I I I   I I I   I I I I I I         I   I I I I I  
+5       I I I I   I   I   I I I I I I I I I I I I   I   I I I I       I
+6   I I I I I     I I I I I       I I I I I I     I I I I I I I I I I I
+7       I I I I I I   I I I I   I I     I   I I I I I I I I I   I I I I
+8       I I I I   I I       I I I I I I     I   I I I I I I   I I I I I
+9   I I I I I   I I I I I I I   I I I I I   I I I   I I I I I I     I I
+0 I I I I I I   I I I   I I   I I I I     I I I I       I I I     I   I
+1 I I   I       I I   I     I       I       I I I     I I I I I I I I I
+2 I I I I I I I I I I I I I   I I I I I I I   I       I I I I I   I I I
+3 I I I I I   I I I I I I I I   I I I I   I   I   I I I I I I   I I I I
+4 I I I I I I   I I I     I I   I I I X   X   I I     I I I I   I I I I
+5   I I I I   I   I     I   I I I I   I   X   X I I I I I I     I I I I
+6 I I I     I I   I I I I I I   I     I   I I I I   I I I I I I I I I I
+7 I I I I I I I   I   I I I     I     I     I I I I I I I I I I I      
+8 I I I I   I I I I   I I I   I I   I I   I I     I   I I I I I I I    
+9     I I I I   I   I I I I I I       I   I I   I I I   I I I I I I    
+------------------------------------------------------------------------
+56
+got you
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0           I   I I I I I I     I I I   I                 I I I I      
+1         I I   I I I I I I I I I I I I I I I I I I   I I I I I I I I I
+2         I I   I I I     I I I I     I I   I I I I   I   I I I I      
+3     I I I I I   I I I I I I I I I I   I   I I I     I I I I I   I   I
+4   I I I   I   I   I I       I I   I I I I I I         I I I I I   I  
+5     I I I I I   I   I I I I I I I I   I I I I I   I   I I   I     I  
+6   I I I   I       I   I I I   I I   I I I I     I   I I I I I I I I I
+7       I I I I   I I I I I I   I I     I   I I     I   I I I   I   I  
+8       I I I I   I I I   I I I I I I I I   I   I I   I I I   I   I I  
+9   I I I I I   I I   I I I I   I I I   I I I I     I     I   I I I I I
+0 I   I I I     I I I I I I I I I I I       I I I I I   I   I I I I I I
+1 I I   I       I I   I     I     I I I   I I I I     I   I I I I I I I
+2 I I I I I I I I I I   I I I I I I I   I I   I I     I I I I I I I I I
+3   I I I I   I I I I I   I I   I I I X   I   I   I I I I I I I I I I I
+4 I I I I I I I I I I I I I I   I I I   X X   I I   I I I I       I I I
+5 I I I I I   I   I   I I   I I I I I I   X     I I   I I I   I I I I I
+6 I I I     I     I I I I I I I I     I     I X I   I   I I   I I I I I
+7 I   I I I I I   I   I I I I   I     I     I I I I I I I   I I I I    
+8   I I I   I I I I   I I I   I I   I I     I   I I I I I I I I I      
+9     I I I I I I I I I I I I   I   I I   I I I I I I   I I I I I I    
+------------------------------------------------------------------------
+57
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0           I   I I I I I       I I I   I                   I   I      
+1         I I I   I I I I I I   I I I I I I I I I     I I I I I I I I I
+2         I I I I   I     I I I     I I I   I I I I   I I I I   I     I
+3     I I I I I I I I I I   I I I I I   I I I I I I   I I I I I I I   I
+4   I I I I I I I I I I I   I I     I I   I   I I     I I I I I     I  
+5     I I I I I   I   I I I I I I I I I I I I I I I I   I I   I     I  
+6   I I I   I       I I   I I   I I   I I I I     I I I   I I I   I I I
+7       I I I I   I I I I I I I I I     I I   I     I   I I I   I I I  
+8       I I I I   I I I   I   I   I I I I   I I I I I   I I   I   I I I
+9   I I I I I I I I   I I I I I I I I I I I I I   I I     I   I I I I I
+0 I   I I I   I I I I I   I I I I I I     I I   I I I I I   I I I I I I
+1 I I I I I     I I I I I I I     I I I I I I I I     I I I I I I I I I
+2 I I I I I I   I I I I I I I I I I I   I     I I       I I I I I I I I
+3   I I I I I I I I I I   I I   I I I     I   I   I I I I I I I I I   I
+4 I   I I   I I I I I I I I I   I I I X   X     I I I I I I       I I  
+5 I I I I I I I   I   I I   I I I I I I     X   I I I I I I   I I I I I
+6 I I       I     I I I I I I I I     I     X I I   I I   I   I I   I  
+7 I I I I I I I   I   I I I I   I     I       I I   I I I I I   I I    
+8   I   I   I   I I I I I     I I   I I   I I   I I I   I I   I I      
+9     I I I I I I I I I I I I   I   I I   I I I I I I I I   I I I I    
+------------------------------------------------------------------------
+58
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0           I   I I I   I   I     I I   I                 I I I I     I
+1         I I I I I I I I I I   I I I I I   I I I     I I I I   I   I I
+2     I   I I I I I I     I I I I   I I     I I I I I I I   I I I I   I
+3     I   I I I I I I I I I I   I I I I I I I   I I   I I I I I I I   I
+4   I I I I I I I I   I I   I I I   I I   I I I I     I I I I I        
+5     I I I I I   I   I I I I I I I I I I I I I I I I I I I I I     I  
+6   I   I   I I   I I I I I I   I I I I I I I   I I I I   I I I I I I I
+7     I I I I I     I I I   I I I       I I   I I   I I I I I I I I    
+8       I I I I   I I I   I I I   I I I I I I I I I I I I I       I I I
+9   I I I I I I I I I I I I   I I I I I I I I I   I I     I   I I I I I
+0 I   I I I I I I I I I   I I   I I I     I I   I I I I I I I I I I I  
+1 I I I I I I   I I I I I I I     I I I I I   I I     I I I I I I I   I
+2 I I   I I I   I I I I I I I I I   I   I       I I   I I I I I I I I  
+3   I I I I I I I   I I   I I   I I I X I I   I   I I I I I I I   I I I
+4 I I I I   I I I I I I I       I I I       X   I I I I I I       I I I
+5 I I I   I I I   I   I       I I I I I     X X I I I I I I   I I I   I
+6 I I     I I I   I I I I I I I I             I I I I I I I I I I I I  
+7 I I I I I I I I I   I I I I         I       I I   I I I I I     I I  
+8   I I I I I I I I I I I     I     I I   I I   I   I     I   I I I    
+9     I I I   I   I   I I   I I I   I I   I I I I I I I I I I   I I    
+------------------------------------------------------------------------
+59
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0         I I I I I I I I I I     I I   I   I         I   I I I I     I
+1         I   I I I   I   I I I I I   I I   I I I     I   I I   I I I I
+2     I   I I I I I I I I I I I I   I I     I   I I I   I   I I   I   I
+3     I I I I I I I I   I I I I I I I I I I I   I I   I I I I I I I    
+4   I I I I I I   I I I I   I   I   I I   I I I I     I I I I I I I I  
+5   I I I I I I I I I I I I I   I I   I I I I I I I I I I I I I     I  
+6   I I I I I I   I I I I I I   I I I I I   I   I I I I I I   I I I I  
+7     I I I   I   I I I I I I I I I   I I I I I I I I I I I I I I I    
+8       I I I I   I I I   I I I   I I I I I I I I   I I I I         I I
+9   I I I   I I I I I I I I   I   I I I I I I I   I I   I I     I I I I
+0 I I I I I I I I I I I   I I I I I I I   I I I I I I I I I I I I I I I
+1 I I I   I I   I I I I I I I   I I   I I I   I I   I I I   I I I I I I
+2   I   I I I   I I   I   I I I I   I X I I     I I   I I I I I I   I I
+3   I I I I I I I   I     I I I I I I   I I I I   I I I I I I I   I I I
+4 I I I I   I I   I I I I       I I I     X       I I   I I       I I I
+5 I I I I I I I     I I       I I I I I   X X   I   I I I I   I I I   I
+6 I I I   I I I     I   I I I I I             I I I I I I I I I I I I I
+7 I I I I I I I I I I I I I I         I     I I I   I   I I I I   I I  
+8   I I I I I I I   I I I   I I   I I I   I I   I I I I I I I I I I    
+9     I   I   I   I   I I I I I I I I     I   I I I   I I I I   I I    
+------------------------------------------------------------------------
+60
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0         I I I I   I I I I I     I I I I   I I       I   I I I I     I
+1         I I I I   I I   I I I I I   I I   I I I     I     I   I I I  
+2     I   I I I I I I I I I   I I   I           I   I I I I I I   I I I
+3     I I I I   I I I   I I I I I I I I I I I   I I   I   I I I I I    
+4   I I I I I I   I I I I   I   I   I     I I I I     I I I I I I I I  
+5   I I I   I I I I I   I I I   I I   I I I   I   I I I I   I I   I I  
+6   I I I I I I   I I I I I I   I   I I I I I I I I I I I I I I I   I  
+7     I I I I I   I I I I I I I I I   I   I I I I I   I I I   I I I I  
+8       I I I     I I I   I I   I   I I I I I I   I I I I I         I I
+9   I I I I I I I I I   I I I I   I   I I I I     I I   I I     I I I I
+0 I I I I I I I I I   I I   I I I I I I   I   I   I I I I I I I I   I I
+1 I I I   I I   I I I   I I I   I I I I I I I I   I I I I   I I   I I I
+2   I I I I I   I I I I   I I I I I I   I I     I I   I I I I I I   I I
+3   I I I I I I I   I     I I I I I I X I I I I I I I I I I   I I I I I
+4 I I   I     I   I I I I       I I     X         I I I I I       I I I
+5 I I I I I I       I I I     I I   I I         I I I I   I I I I I   I
+6 I I I   I I I     I I I I   I I   I I   X X I I I I I I I I I I I I I
+7   I I I I I   I I I I I   I I       I I   I I       I I I I I   I I  
+8   I I I I I I I I I I I   I I I I I I   I I I I I I I I I I I I I    
+9   I I   I I I   I   I I I I I I I I I       I   I I I   I I   I      
+------------------------------------------------------------------------
+61
+got you
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0         I I I I I I I I I I       I I I I I I       I   I   I I   I I
+1         I I I I   I I   I I I   I I I       I I I I I I   I I I I I  
+2     I   I I I I I I I I I   I I I I I       I I I I I I I I I I I I I
+3     I I   I I I I I   I I I I   I I I I I I     I I I     I I I     I
+4   I I I I   I I I I   I   I I I   I I     I I I I   I I I I   I I I  
+5   I I I I I   I   I I I I I   I I   I   I I I I I I I I I I I   I I  
+6   I I   I I I I I I I I I I   I I I   I I   I I I I   I I I   I I I  
+7     I I   I I   I I I I I I I I I   I I I I I I I   I   I   I   I I I
+8       I I I       I I I I I   I I I I I I I I   I I I I         I   I
+9     I   I I I I I I I I I I I   I I I I I I     I I I I I   I I I I I
+0 I I I I I I I I I I I I I I I I I I I   I   I   I I I I I I I I I I I
+1 I   I I I I I I   I   I I I   I I I I I I I     I I   I   I I I I I I
+2   I I I I I   I I I I   I I I I I   X   I   I I I   I   I I   I   I I
+3   I I I I I I I   I I   I I I I I I   I I I I I I I I I I I I I I I I
+4 I I         I   I I I I       I I               I I I I I   I   I I I
+5 I I I I I I I     I I I     I I I I I X       I I I     I I I I I    
+6 I I I   I   I     I I I I I I I   I I       X   I   I I I I I I I I I
+7   I I I I I I I I I I I   I I     I I I X I I     I I I I   I   I I  
+8     I I I I I I I I I I   I I I I   I I I   I I I I I I I I I I I I  
+9   I I   I I I   I   I I I   I I I I I   I   I   I I I   I I          
+------------------------------------------------------------------------
+62
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0         I I I I I I I I I I     I I I I I I I       I   I   I I   I I
+1       I I I I I I I     I   I I I I I       I I I I I I   I I   I I I
+2     I   I I I I I I I I I   I I I I I   I   I   I I I I I I I I I I I
+3       I I I I I I I     I   I I I I I I I I     I I I I I I I I I   I
+4   I I I I I I I I I   I   I I I I I I   I I I I I   I I I I I I I I  
+5   I I I I I   I I I I I I I     I I I   I I I I I I I I I I I   I I  
+6   I I I I I I I I I I I I I   I I I I I I   I I I I I I I I I I I I  
+7     I     I     I I I I I I I I I I I I I I   I I   I   I   I   I I I
+8       I   I I I   I I I I I I I I I I I I   I I I I I I I       I I I
+9     I I I I I I I I I     I I   I I I I I I     I I I I     I I I I  
+0 I I   I I I I I I I I I I I I I I I I   I   I   I I I I I I I I I I I
+1 I I I I I I I I I I I I I I   I I I I I I I     I I I I   I I I I I I
+2   I I   I     I I I I I   I I   I X     I   I I I I I     I   I     I
+3   I   I I I I     I I   I   I I I I   I   I I I   I I I I I I I I I I
+4 I I   I   I I     I I I       I I     X         I I I I I   I I I   I
+5 I I   I I I I     I I I I   I I I I I           I I   I   I I I     I
+6 I I I I I I I I   I I   I I I     I I     X     I I I I I I     I   I
+7   I   I   I I I I I I I   I I     I I I I X       I I   I I I   I I  
+8   I I   I   I I I I I I   I   I I I I I I   I I I I I I I I I   I I  
+9   I       I I I I     I I   I I I I I   I   I     I I I I            
+------------------------------------------------------------------------
+63
+got you
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0       I I   I I I   I   I I     I I I I I I I       I I I   I I   I I
+1       I I I I I I I I   I I I I I I I I   I I   I I   I I   I I I   I
+2     I I I I I I I I I I I     I I I I   I   I   I I I I I I I I I I I
+3     I I I I I I I     I I I I I I I I I I I     I I I I I I I I I I I
+4   I I I I I I I I I   I   I I I I I I   I I I I I   I I I I I I I I  
+5   I I I I I I I I I I     I     I I I I I I I I I I I I I I I   I    
+6     I I I I I I I I I I I     I I I I I I   I I I I I I I I I I I I  
+7     I I   I   I I I I I I I I   I I I I I I I I I I I   I I I   I I I
+8     I I   I I I   I   I I I I I I I I   I I I I I I I I I       I I I
+9     I I I I I I I I I   I I I I I I I I   I     I I I I I I I   I I  
+0 I I I I I I I I I I I I I   I I I I I I I I I I I I I I I I I I I I I
+1   I I I I I I I I I I I I I I I I X   I I I     I I I I I I I I   I  
+2   I I   I I   I I I I I I   I I I     I I   I   I I I     I   I   I I
+3   I   I   I I     I I   I   I I I I   I   I   I I I I I I I I I I I  
+4 I I   I   I I     I   I       I I       X I     I I I I I   I I I I I
+5 I I I I I I I     I I I I   I I I   I           I I   I   I I I     I
+6 I I I I I I I I   I I I I I       I I I X     I I I I I I I   I I I I
+7 I I I I   I I I   I I I     I   I I I I X         I I   I I I     I  
+8   I I I I I I   I I I   I I I I I I I I I   I I I   I I I I     I I  
+9   I     I I   I I       I   I I I I I I I         I I I I       I    
+------------------------------------------------------------------------
+64
+got you
+got you
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0       I I   I I I I I   I I I   I   I I I I I       I I I   I I   I I
+1       I I I I I I I I   I I I I I I   I   I I I I I I I I   I I I I I
+2   I I I I I I I I I I I     I I I I I I I   I   I I I   I I I I I I  
+3     I I I   I   I     I I I I I I I I I   I     I I I I I   I I I I I
+4   I I I I I I I I I       I I I I   I   I I I I I   I I   I I I I I  
+5   I   I I I I I I I I   I I       I   I I I   I I I I I I I I I I I  
+6     I I I I I I I I I I I       I I I I I I I I I I I I I I I I I I  
+7     I I I I I I I   I I I I   I I I I I I I I I I I I   I I I   I I I
+8     I I I I I I   I I I I I I I I I I   I I I I I I I I I       I I  
+9     I I I I   I I I I   I I I I I I I I I   I     I I I I I I   I I  
+0 I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I   I I I
+1   I   I   I I I I I I I I I I I     X I   I I   I I I I I I I I   I  
+2   I I I I I I I   I   I I   I I I     I I   I I I I I I   I       I I
+3   I   I I I I I   I I   I   I I I     I X I   I I I I I   I   I I I  
+4 I I   I   I     I I         I I I         I     I   I I I   I I I I I
+5 I I I I I   I     I   I I   I I I   I           I   I I   I   I     I
+6 I I I I I I I I   I I I I I I   I I I X       I I I   I I I I I I I I
+7 I   I I I I I I   I I I     I   I I I X     I     I I I   I I     I  
+8   I I I I I I   I I I I I I I I I I I I I   I I I   I I I I     I I I
+9   I I   I I   I       I I I I I I   I I I         I   I I       I    
+------------------------------------------------------------------------
+65
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0       I I   I I I I I   I I I   I I I   I I I       I I I   I I I I I
+1       I I I I I I I I   I I I I I I I I   I I I I I I I I   I I I I I
+2   I I I I I   I I I I I     I   I I I I I   I   I I I I I I I I I I  
+3     I I I   I I I     I   I I I I I I I   I I   I I I I I   I I I I I
+4   I I I   I   I I I         I   I   I I I I I I I I I I   I I I I I I
+5   I   I I I I I I I I   I I       I I I   I   I   I   I I I I I I I  
+6     I I I I   I I I   I I       I I I   I I I   I   I I I I I I I I  
+7     I I I I I I I I I I I I I I I I I I I I I I I I     I I I   I I I
+8     I I I   I I   I I I I I I I I   I I I I   I I I I I I       I I I
+9     I I I I I   I   I   I I   I   I I I I   I     I I I I I I   I I  
+0 I I I I I     I I I I I I I I I I I I I   I I I I I   I   I I I I I I
+1   I   I   I I   I I I     I I I         I I I   I I I   I I   I   I I
+2   I I I I I I I I I I I I I I I I I X I I   I I I I I I   I       I I
+3   I I I I   I I     I   I I I I I     X   I I I I I I I   I I I I    
+4 I     I   I I   I I         I I I         I     I   I I I   I I I I  
+5 I I I I I I I     I   I I   I I I   I           I   I I   I   I I I I
+6 I I I I   I   I   I I I I I I   I I I   X     I I I I I I I I I   I I
+7 I I I I I I I     I I       I   I I I   X   I     I I I I I I        
+8   I   I I I     I I I I I I I I I I I I   I I I I I I I I I       I I
+9   I I   I I   I       I I I   I I   I I I         I I I         I I  
+------------------------------------------------------------------------
+66
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0       I I   I I I I I       I I I I I   I I I I   I I I     I   I I  
+1       I I I I   I I I   I I I I I I I I   I I I I I I I I   I I I I I
+2   I I I I I I I I I   I I I I I I I I I I I I   I I I I I I I I   I I
+3     I I I I I I I     I I I   I   I   I I I I   I I I I I I I I I I I
+4   I I I   I   I I           I I I   I I I I I I I I I I     I   I I I
+5   I I I I I I   I I I   I I     I I I I I I I I   I   I I I   I I I  
+6     I I I I   I I I I I I       I I I   I I I   I I I I I I I I I I  
+7       I I I I I I I I I   I I I   I I I I I I I I I I     I     I I I
+8     I   I I I I I I I I I I I I I I I I   I I I I I I I I       I I I
+9       I I I I I I I I   I I   I   I I I I   I     I I   I I I   I    
+0 I   I I I     I I I I I I I   I I I   I   I I I I I   I I I I I I I I
+1 I I   I I   I I I I I I I I I           I I I   I   I I I I   I I   I
+2   I I I I I I I I I I I I I   I I I   X I   I I   I   I   I     I I  
+3 I I I I I   I I     I I I I   I I       X I I I I I I I   I I I I    
+4 I   I I I I I   I I         I I I         I     I   I I I I I I I I  
+5 I   I   I I I     I   I I I I I I   I   X I     I   I I I I     I I I
+6   I   I I I   I I I I I I I I   I I I         I   I I   I   I I   I  
+7 I I I   I I I       I       I I I I I     X I     I I I I I       I  
+8 I I   I   I     I I I I I I I I I I I I   I I I I I     I         I I
+9   I I I I I I I       I I I   I     I I I         I I I       I I I  
+------------------------------------------------------------------------
+67
+got you
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0       I     I I I I I       I I I I     I   I I   I   I     I   I I I
+1     I I I   I   I I I   I I   I I I I I I I I I I I I I I I I I   I I
+2   I I I I I I I I I I   I I I I I I I I I I I   I I   I I I I I   I I
+3     I I I I I I I     I I I   I I I   I I I I   I I I I I I I I I I I
+4   I I I I I I I I   I     I I I I   I I I I I I I I I       I   I   I
+5     I I I I I   I I I   I       I I I I I I I I I I I I I I   I I I  
+6       I   I I I I I I I I I     I I I I I I I   I I I   I I I I I I  
+7     I I I   I I   I I I   I I I   I I I I I I I I I I I I I     I   I
+8     I I I I I I I   I I I I I I I I I I   I I I I I I I I       I I I
+9     I I I I I I I I I I I   I I I I I   I I I I   I I   I I I I I    
+0 I I I I I     I I I I   I I   I I I I I   I I I I I I I I   I I I I  
+1 I I   I I   I I I I I I I I I I         I   I     I I I I I I I I I I
+2   I I I I I I I I   I I I I   I I I     X   I I   I I I I I     I I  
+3 I   I I I   I I     I I I I   I I     X     I   I I I I I I I   I    
+4 I   I I I I I   I I         I I I         I I   I     I   I I I I I  
+5 I I I I I I I I   I     I I I   I I I     X       I I I I       I I I
+6 I I I I I I   I I I   I I I I   I I         I I   I I   I   I I   I  
+7 I I I I I I I     I I I       I I I I       I     I I I I I       I  
+8 I I I I I I   I   I   I I I I I   I I I   X I I   I   I I         I I
+9   I I I I I I I       I   I   I   I I I I           I I I     I I I  
+------------------------------------------------------------------------
+68
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0       I     I I   I I   I   I I I I I         I   I   I I   I I I I I
+1     I I I   I   I   I I I I   I I   I I I I I I   I I I I I   I   I I
+2   I I I I I I I I I I   I I I I   I   I I I I   I I I I I I I I I   I
+3     I I I I I I I     I I I   I I I   I I I I   I I I I I I I I I I  
+4   I   I I I I   I   I   I I I I I I   I I I   I   I I       I   I I I
+5   I I I   I I   I I I   I       I I I I I I I I I I I I I I   I   I I
+6       I I I I   I I I I   I I     I I I   I     I I I   I I I I I I  
+7     I I I   I I I I I I I I I I I I I   I I I I I I I I I I     I   I
+8   I I I I I I I I   I I I I I I I I   I I I I I   I I I I I     I I I
+9 I   I I I   I I I I I I I   I I I I I I I I I I I   I   I I I I I I  
+0 I I I I I     I I I I I I I   I   I I I I I I I I I I I I   I I   I  
+1 I I     I   I I I I I I I   I I   I     I   I I   I I I I I I I I I I
+2   I I I   I I   I I I I I I   I   I   X     I I I I I I I I     I I  
+3 I   I I I I I I I     I   I   I I I     X   I I I I I I I I I I I I  
+4 I   I I I I I   I           I I I         I I   I   I I   I I I I I  
+5 I I I I I I   I I I     I I     I I I   X         I I I I     I I I I
+6 I I I I I I I I I I   I I I I I I I         I I I I I       I I   I  
+7 I I I I I I I     I I I I     I I I I I     I I   I   I I I       I  
+8 I I I I I I I I   I   I I I I   I I I       I I   I I I I           I
+9     I I I   I I       I I I I I I I I I   X         I I I     I I I I
+------------------------------------------------------------------------
+69
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0     I I     I I   I I   I   I I I I I       I I I I I I I   I I I   I
+1     I I I I I I     I I I I I I I I I I I I I I     I   I I I I   I  
+2 I I I I I I I I I I I   I I I I   I I I I I I I   I I I I I I I I I I
+3   I I I I I I I       I I I     I I   I I I I   I I I   I I I I I I  
+4   I   I I I I I I I I   I I   I I I I I I I   I I I I I         I I I
+5   I I I   I I   I I I   I     I I I I I I   I   I I I I I I   I   I I
+6     I   I I I I I   I I I I I I   I   I   I I   I I I I I I I I   I  
+7     I I I   I I I I I I I I I I I I I   I I I I I I I I I I   I I I I
+8   I I I I I   I I I I I I I   I   I I I I I I   I I I I   I       I I
+9 I   I   I I I I   I   I I   I I I I I I I I I I I I     I I   I I I  
+0 I I I I         I   I I   I I I   I I I I I I I I I I I I   I I   I I
+1 I I   I I   I I I I I I I   I I   I   X I I I I I I I I I I I   I I I
+2 I I I I I I I   I I I   I I I I   I I   X   I I I   I I I I I   I I  
+3 I   I I I I I I I     I I I   I I I         I I I I I I I I I I   I  
+4 I   I   I I I I I           I I I I       I I   I I I I   I   I I I  
+5 I I I I   I   I I I     I I I   I I I X         I I I I I     I I I  
+6 I I I I I I I I I I I I I I I I I I I       I I I I I I I I I I I I I
+7 I I I I I I     I I I I I     I I   I I     I I       I I         I  
+8 I   I I I I I I   I   I I I I I I I I     X I I   I I I I         I I
+9     I I I   I I   I I I I I I I I I I I             I   I     I I I I
+------------------------------------------------------------------------
+70
+got you
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0     I I     I I   I I   I   I I I I I       I I I I I   I   I I I   I
+1     I   I I I I     I I     I   I I I   I   I I I   I   I I I   I I I
+2 I I I   I   I I I   I I I I I I I I I I   I I I I I I I I I I I I I I
+3   I I I I I I I I       I I I   I     I I   I   I I I I   I I I   I  
+4   I I I I   I I I I I   I I   I   I I I I I I I I I I I     I   I I I
+5   I I I I I I     I I I I     I I I I I I   I I I I I I I I I I I I I
+6     I I I   I I I I I I I I I I   I I I   I I   I I I I I I   I I I  
+7     I   I   I I I I I   I I I I I   I I I I I I I I I I I     I I I I
+8   I I I I I   I I I I I I I   I   I I I I I I   I I I     I   I     I
+9 I   I I I I I I I I   I I I I I I I I I I I I I I I     I I   I I I  
+0   I   I     I I I   I I   I I     I I I I I I   I I I I I   I I   I I
+1 I     I I I I I I I I I I I   I I I     X I I I I I   I I   I I I I I
+2 I I I I I I I I I I I     I I I   I I X     I I I I I I I I I   I I  
+3 I   I I I I I I I     I I I I I   I       I I I   I I   I I I I   I  
+4     I I I I I I I     I     I   I I         I I I I I I I I I   I    
+5 I I I I I I   I I I       I I   I I I   X       I I I   I     I I I  
+6 I   I   I   I   I I I I I I I I I I I       I I I I I I I I I I I I I
+7   I I I I I I   I I I I I     I I   I I     I I       I I         I  
+8 I I I   I   I I   I   I I I   I I   I       X I   I I I I         I I
+9     I I     I     I I I I I I I I I I         I   I I   I     I I I I
+------------------------------------------------------------------------
+71
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0     I       I     I I I I     I I I I       I I I I I   I   I I I   I
+1   I I   I I I I     I I   I I I I I I   I I I I I         I I   I   I
+2 I I I   I   I I I I I I I I I I I I I   I I I I I I I I I I I I I I I
+3   I   I I I I I I       I   I I I I   I I I I   I I   I   I I I      
+4   I I I I I I I I I I   I I   I   I I I I I I I I I I I     I   I I I
+5 I I I I I I I     I I I I     I I I I I I   I I I I I   I I I I I   I
+6     I I I I I I I I I I I I I I   I I I     I   I I I I   I   I I   I
+7     I I   I     I I I I I I I I I   I I I I   I I I I I I     I I I I
+8   I I I   I   I I I   I   I I I   I I I I I I I I I I   I I   I     I
+9 I I I I I I I I I I   I   I I   I I I I   I I I I I I   I     I I I  
+0 I I I I     I I I I   I   I I I     I   I   I       I I I   I I   I I
+1 I     I I I I I I I I I I I   I I I I     X   I I I I I I I I I I I I
+2 I I I I I   I I I I I I I I I     I I   X   I I I I I   I I I   I    
+3 I   I I I I I I I     I I I I I   I I     I I I I I I   I I I I I I  
+4     I I I I I I I     I   I I   I I         I I I I I I I I I   I    
+5 I I   I I I   I I I       I I   I I I       I   I I I   I I   I I I I
+6 I I I I I I I   I   I I I I I I I I I I     I   I I I I I I     I   I
+7   I   I   I I   I I   I I I   I     I I     I I I       I I       I I
+8 I I I I I   I I   I     I I I I I   I         I   I I I           I  
+9       I     I I   I I I I   I   I I I       X I   I I   I     I I I I
+------------------------------------------------------------------------
+72
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0     I       I       I I I     I I I I       I I I I I I I   I I I   I
+1   I I     I I I     I I   I I I I I   I I I I   I         I I   I   I
+2 I   I   I I I I I I I I I I I I I I I   I I I I I I I   I I I I I I I
+3   I I I I I I   I       I I I I I I   I I I   I   I   I I I I   I I  
+4   I I I I I I I   I I   I I   I I I I   I I I   I   I I I   I   I I I
+5 I I I I I I I     I I I       I I I   I I I I I I I I I I I I   I   I
+6     I I I I I I I I I I I I I I I I I I   I I   I I I I   I   I I   I
+7     I I   I   I I I I I I I   I I   I I I I   I I I I I I     I I I I
+8 I I I I   I   I I I   I I I I I I I I   I I I I I I I   I I   I      
+9 I I I I I I   I I I   I   I I   I I I I I I   I I I I   I   I I   I I
+0 I I I       I I I I I I     I I I I I   I   I I I I I I I   I I     I
+1 I I I I I I I I I I I I I I I I I I I   X   I I I I I I I I I I I I  
+2 I I I I I     I I I I I I   I       I     X I I I I I I I I I   I I  
+3 I     I I I I I I     I I   I I I I I     I   I I I I   I I I I I I  
+4   I I I I I   I   I   I   I     I I I     I I I   I I   I I I I I I  
+5   I I I I     I I I       I I   I I         I I I I I   I I I I   I I
+6 I I I I I I I I I   I I I I   I   I I I     I I I I I I I I     I   I
+7 I I I I I I I   I I   I I I I I     I I I     I I       I I     I I I
+8 I I I I I I I I I I   I I I I I I I I               I I           I  
+9     I I I   I I   I I   I   I   I I I         I   I   I I     I I   I
+------------------------------------------------------------------------
+73
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0     I     I I       I I I     I I   I       I   I I I I I I   I     I
+1   I I I   I I I     I I I I I I I I I I I I I   I I       I I I I I I
+2 I I I   I I I I   I I I     I I I I I I I I I I I I I I I I   I I I I
+3 I I I I I I I   I I       I I I I I   I   I   I I I   I I       I I  
+4   I I I I I I I I I I I I I I   I I I   I   I I I   I I I   I   I I I
+5 I I   I I I I     I I I   I   I I I   I I I I I I I I I I   I   I   I
+6     I I I I I I I I I I I I I I I I I I   I I   I   I I I I I I I I I
+7     I I   I   I I I I I I I I I I   I I I I     I I   I I   I I I I I
+8 I I I I   I   I   I I I I I I I I I I I I I   I I   I   I I   I      
+9 I I I I I I I I I I   I   I I   I I I I I I I I I I I   I   I I I I I
+0 I I I I   I I I   I I I I   I I I I I   I   I I I I I I I   I     I I
+1 I I I I   I I I I   I   I I I I I I I       I I I I I   I I I I   I  
+2 I I I I I   I I I I   I I   I   I I I   X   I I I I I I I   I I I I  
+3 I       I I I I I I     I   I I I I I     I   I I   I   I I I I I I  
+4   I I I I I   I I I   I I I       I I     I I I I I I   I   I I I I  
+5   I I I I     I I I I       I I I I I       I I I I I     I I I I   I
+6 I I I I   I I I     I I   I   I   I I I     I I I I I I I I     I   I
+7 I I I I I   I   I I I I I I I I   I I I I     I I   I     I     I I I
+8   I I I I I I I I     I I I I I I I               I I I           I  
+9     I   I   I I   I I   I I I I I I I I     I I   I   I I     I I I I
+------------------------------------------------------------------------
+74
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0     I     I I       I I I       I I I       I   I   I I I I I I      
+1 I I I I I I I I I   I I I I I I I I I I I I I   I I I       I I I I I
+2 I I     I I   I   I   I I   I   I I I I I   I I I I I I I I I I I I  
+3 I I I   I I I I I I       I I I   I I I I I I I I I I I I       I I  
+4   I I I I I   I I I I I I I I   I I I I I   I I I I I I I   I     I I
+5 I I     I   I I     I I   I   I   I   I   I I I   I I I I I I I I   I
+6   I I I I I   I I I I   I I I I I   I     I I I I   I I I I I   I I I
+7     I I   I   I I I I I I I I I I   I I I I       I   I     I I I I I
+8 I I I I       I   I I I I   I I I   I I I I I I I I I   I I   I      
+9 I I   I I I I I I I     I I I     I I I I   I I I I I   I   I   I I I
+0 I I I I   I I I I I I I I   I I I I I   I   I I I I I I I   I I   I I
+1   I I I I I I I I I I I   I I   I I I   I   I I I   I   I I I I   I  
+2 I I I I I   I I I I   I I I I   I I I     X I I I I   I   I I I   I  
+3       I I I I I I I     I I I   I I I     I I I I I I   I I I I I I  
+4   I   I   I I I I I   I I I I     I I     I I I I I I I I   I I I I  
+5   I I I I     I I I I I     I I I   I       I I I I I     I I I I I I
+6 I I I I I I I I I I I I   I I I I I I I     I I I I I I I I   I I I I
+7 I I I   I   I   I I I I I I I I   I I I I     I I   I   I I     I   I
+8   I I I   I I I I     I I   I I I I               I I           I I  
+9     I   I     I I I I   I I I I I   I I     I I   I I I         I I I
+------------------------------------------------------------------------
+75
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0     I     I         I I I I   I I I I     I I   I   I I I I I I      
+1 I I   I I I I I I   I   I I I I I I I I I I I   I I I       I I I I I
+2 I I I   I I I I   I I I I   I   I I I I I   I I I I I I   I I I I I I
+3 I I I   I I I I I I       I I I   I I I I I I I I I I I I I     I I  
+4   I I I I I   I I I   I I   I   I I I I I   I I I I I I I   I I I I I
+5 I     I I I I I     I I   I   I I I I I   I I I I I   I I I I I I    
+6   I I I I I I I I I I   I   I I I   I I   I I I I I I I I   I   I I I
+7     I I   I I I   I I I   I I I I   I I I       I I I   I   I I I I I
+8 I I I I   I   I I I I I I   I   I   I I I I I I I I I   I     I I    
+9 I I I I   I I I I I     I I I   I I I I I   I   I I I I I   I   I   I
+0 I I I I   I I I I I I   I I I I I I     I   I I I I   I I   I I   I I
+1   I I I I I I I I I I I   I I   I I I   I   I   I I I I I I   I      
+2 I I I I I I I I I   I I I I I   I I I   X   I I   I   I I I I I I I I
+3       I I   I I   I   I I I I   I   I     I I I I I I   I I I I I I  
+4   I   I I I I I I I I I I I I     I I I   I I I I I I I I I I I   I  
+5     I I I I         I I     I I I I I I     I I I   I     I I I I I I
+6   I I I I I   I I I I I   I I   I   I I       I   I I I I I   I I I I
+7 I I I   I I I   I   I I I I I I   I I   I I     I I I   I I I   I I I
+8 I I I I   I     I     I I I I I I I             I I I           I I I
+9   I I   I I I I I I I I   I   I       I     I I I I I I         I I  
+------------------------------------------------------------------------
+76
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0     I     I         I I   I   I I I I     I I       I I   I I        
+1 I I I I I   I   I I I   I I   I I   I I I I I   I I I       I I I I I
+2 I I I I   I I I   I I I I I I I I I I I I     I I I   I I I I       I
+3 I I I I I I   I I I       I I I   I I I I I I I I   I I I I   I I I I
+4   I I I I I   I I     I   I I I I I I I I I I I   I I I I   I I I   I
+5 I I   I I I I I     I I   I     I I I I   I I I I I   I   I I I I    
+6   I   I I I I I I I I I       I I   I I   I   I I I I I I   I   I I I
+7 I   I I I I I I   I I I I I I I I   I I I I     I I I   I   I I I   I
+8 I   I I   I   I I I I   I I I   I   I I I I I I I I I   I I   I I    
+9 I I I I   I I I I I I   I I I   I I I   I   I I   I I I I I I I I I I
+0 I I I I   I I I I I I   I I   I I I         I I I I I I I I I I   I I
+1 I I I   I I I I I I I I I I I I I I I   I   I     I I I I I I I      
+2 I I I I   I I I I   I I I I   I I I       X I I I I   I I I   I I I I
+3   I   I I     I   I I I   I I   I   I I   I I I I I     I I I   I I  
+4   I I I I I I I I I I I I I I I I I I I   I I I I   I I I I I I I I  
+5     I I I I   I I I I I I     I I I I I     I I     I     I I   I I I
+6 I I I I I I   I I I I I   I I   I     I     I I   I I I   I   I I I I
+7 I I I   I I I       I I I I I I   I I I I I   I I I I   I I I   I I I
+8 I I I I I I     I   I I I I I I   I I           I I             I I I
+9   I I I I I I I I   I I   I   I   I I I     I I I I I I         I I  
+------------------------------------------------------------------------
+77
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I       I I       I I I I   I I I I     I       I I I I I I        
+1 I I I I I I I   I I I   I I   I I I I I I I I     I I         I   I I
+2   I I I   I I   I I I I I I I I   I   I I     I I I   I I I I I I   I
+3 I   I I I I I I   I       I   I I I I I I I I I I I I I I I I I I I I
+4 I I I I I I   I I I I I   I I I I I   I I I I I   I I   I     I I I I
+5 I I   I I I I I       I   I     I I I I   I I   I   I I I I   I      
+6 I I     I I I   I   I I   I   I I   I I I I   I I I I   I I I   I I I
+7 I   I I I I I I I I I I I I I I I   I I I I     I I I   I   I   I    
+8 I   I I   I I I I I I   I I I I I     I I I I I I I I   I I I I I   I
+9 I I I I   I I I I I I   I I I I I I I I I   I I     I I I I I I I I I
+0 I I I I   I     I I I   I I   I I I         I I I I I I I I I I I I  
+1 I I I I I   I I   I I I I I I I I I I   I I I I   I I I I I I I      
+2   I I I I I I I I   I I I I   I I I     X   I I I I   I I I I I I I I
+3   I   I I   I I I I I I   I I   I   I I   I I I I I   I I   I I I I  
+4   I I   I   I   I I I   I I I I I I I I I I I I I I I I   I I I I I I
+5     I I I I   I I I I I I     I   I I I     I I     I I   I I   I I I
+6 I I I I I I I I I I   I     I I I I   I I   I I     I         I I I I
+7 I I I I I I         I I I I I I   I I I I I   I I I I   I I I   I I I
+8 I   I I I I I I I   I I I I I   I I I       I   I I   I         I   I
+9   I I I I I I I I I   I I I I I   I I I     I   I   I I         I I I
+------------------------------------------------------------------------
+78
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I     I I I       I   I I   I   I I     I I     I I I I I I        
+1 I I I I I I I I I I   I I I     I I I I I I I     I I         I I I  
+2   I I I   I I   I I I   I I I I   I I I       I   I I I I I I I I I I
+3 I I I I   I I I I I I     I I I I   I I I   I I I I I I I I I I I I I
+4 I I     I I   I I I I I   I I I I I I I   I I I I I I I I     I I I I
+5 I I   I   I   I I         I I   I   I I   I I I I   I I I I   I      
+6 I I I   I I I I I I I I   I   I I   I I I I   I   I I   I I I   I I  
+7 I   I   I I I I I I I   I I I I I   I   I I I I I I I   I   I   I I  
+8 I   I I   I I   I I I   I I   I I   I I I   I   I I I     I I   I   I
+9 I I I I   I I I   I I   I I I I I I I I I   I I   I   I I I I I I I I
+0 I I I I   I   I I   I I I I   I I I I       I I I I I   I I I I I I  
+1 I I I I I I I I I I   I I   I I I I     I I I I I I   I I I I        
+2   I I I I I I I I   I I   I I I I I       X I I I     I I I I I I I I
+3   I   I I I I I I I I I   I   I I     I     I I I I   I I   I I I I  
+4 I I I I I I I   I I I   I I I I I I I I I I I I I I I I I I I I I I I
+5     I I   I I I I I I I I   I I I I I I   I I I     I I   I I I I I  
+6 I   I I I   I I I I I I     I I I I   I I   I I I   I         I I I I
+7 I I I I I I         I I I I I I I I I I I I I I   I I   I   I   I I I
+8 I I I   I I I I I   I I I I I   I I I I     I I I I   I I   I   I I I
+9   I I I I I I I I I   I I I I I   I I I     I   I   I I           I I
+------------------------------------------------------------------------
+79
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I     I I I       I I I I   I   I I   I I I     I I I I I I        
+1 I   I I I I I I I I   I I     I I I I I I   I     I I I     I I I I I
+2 I I I I I   I I I   I I I I I I I I I I       I I I I I I I I I I I I
+3 I I   I   I I I I I I   I I I   I I I I I I I I I I I I   I I I   I I
+4 I I   I I I   I I I I I I I I I I I I I I I I I I I I I I     I I I I
+5 I I   I I I I I I   I     I I   I I I       I I I   I   I I I I I I  
+6 I I I   I   I I I I I I I I   I     I I I I I I I I I   I I I   I I  
+7 I I I I I   I I I I I   I I I I I   I   I I I I I   I I I   I   I I  
+8 I     I   I I   I I I     I   I     I I I   I   I I I I I I I   I   I
+9 I I I I   I I I I I I   I I I I I I I I     I I I I   I I I I I I I  
+0   I I I   I   I I I I I I I       I I   I   I   I I I I I I   I I I  
+1 I   I I I I I I I I   I I I I I I I I   I I I I I I   I I   I     I  
+2     I I I I I I I I I I   I I I I I         I I I I     I I I I I   I
+3   I I I   I I   I I I I   I I I I   I I   X I I I I   I I I I I   I  
+4 I I I I I I I   I I I I I   I I I I I I I I I I I I I I I I I I I   I
+5     I I I I I I I I I I I   I I I I I I   I I I       I   I I I I I  
+6 I I I I I I I   I I I   I I I I I I     I I I I I I I       I I I I I
+7   I I I   I I       I I I   I I I I   I   I I I I I I   I   I   I I I
+8 I I I   I I I I     I     I     I I I I     I I I I   I I   I   I I I
+9 I I   I I I I I I I   I I I I I I I I I     I   I   I           I I I
+------------------------------------------------------------------------
+80
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I     I I I     I I I I I I I   I I   I I I     I I   I   I I      
+1 I   I I I I   I I I   I   I   I I I     I I         I I     I   I I I
+2 I I I I I   I I I   I I I I   I I I I I     I I I I I I I I I I I I I
+3 I I   I   I I I I I I   I   I I I I I I I I I I I I I I I I I I   I I
+4 I     I I I   I   I I I I I   I I I I I I I I   I I I I I     I I I  
+5 I I   I I I I I I   I     I I   I I I       I I I   I   I I I I I I  
+6 I I I   I   I I I I I I I I   I I   I I I   I I I I I     I     I I  
+7 I I I I I I I   I   I I I I     I   I     I I I I I I I I I I   I I  
+8     I I I I I I I I       I   I     I I I   I   I I I I I I I I I   I
+9 I I I I   I I I I I I   I I I I I I I I     I I I I   I I I   I I I  
+0 I I I I     I I I I   I I I         I   I   I     I I I I I I I I I  
+1 I     I I I I I I I   I I I I I I I I   I I I I I I I I I I I   I I  
+2 I   I I I I I I   I I I   I I I       I   X I   I I   I I I I   I   I
+3   I I I I I I   I I I I   I I I I   I I     I I I I I I I I I I I I I
+4 I   I I I I I     I I I     I I I I I I I   I I I I I I I I I   I I I
+5       I I I I I I I   I I   I   I I I I   I I         I   I   I I I  
+6 I I I I I I I I I I I   I I I I I I     I I I I I I I I I   I I I I I
+7   I I I I I I     I   I I I   I I   I I   I I I I I I   I I I   I I I
+8 I I I   I   I I   I I   I I   I I   I I     I I I I   I I   I   I I I
+9 I I I I I I I I I I   I I   I I I I I       I   I I I           I I I
+------------------------------------------------------------------------
+81
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I   I I I     I I I I I I I   I I   I I I     I I   I   I I      
+1 I I I I I I I I   I I I I I   I   I I   I I         I I     I   I   I
+2 I I I I I   I I I I I I   I   I I   I       I I I I I I I I I I I I I
+3   I   I     I   I I I   I I I I I I I I   I   I   I I I I I I I   I I
+4 I I   I I I I I I I I   I I I I I I I   I I I I I     I I     I I I  
+5 I I I I I I I I I   I I   I I I I I I       I I I   I I I   I   I I  
+6 I I I   I   I I   I   I I I   I I   I I I I I I I I I   I I     I I  
+7 I I I I I I I   I I I I I I I I I   I   I I I I I I I I I I     I I  
+8 I   I I I I I I I I I     I   I I   I I I     I I   I I I I I I I I I
+9 I I I I I I   I I I I I I I I I I I   I       I I I   I I I I I   I  
+0 I I I     I I I   I   I I I   I   I I   I I I   I I I I I I I I I    
+1 I I   I I I I I I I   I I I I I I I I     I I I I I I I I I I   I I  
+2 I   I I I I I I I I I I     I I I     I X   I I I I   I I I I   I I I
+3   I I I I I I   I I I I     I I I   I I I   I I I I I I I I I I I I I
+4 I I I I I I     I I I I     I I I I I I I   I I I I I   I I I I I I I
+5     I I I I I I I I I   I I I   I I   I I I I I   I   I I I I I I I  
+6 I I I I   I I I I I I   I I I I   I     I I I I I I   I I   I I I I I
+7     I I I I I     I   I I I   I I I I I   I I I I I     I I I   I I I
+8 I I I I I I I I I I I   I I I I I I I I     I I I     I I I I   I I I
+9 I I I I I I I I   I I I I I I   I I I           I I         I   I I I
+------------------------------------------------------------------------
+82
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I   I I I I   I   I I I I I   I I   I I I I   I I I I     I I    
+1   I I I   I I I   I I I I I I I I I I     I         I I   I I I I I I
+2 I I I I I I   I I I I I I I   I I I I     I I I I I I I I I I I I I  
+3   I I I     I I I I I I I I I I I I I I   I I I   I   I I   I I   I I
+4 I I   I I I I I I I I   I I I I I I I I I I I I I I   I I       I I  
+5 I I I   I   I I I   I I   I I I   I I   I     I I   I I I I I   I I  
+6 I   I I I I I I I I I I I I   I I   I I I I I   I I I   I I     I I  
+7 I I I I I I     I I I I I I I I I I     I I I I I I I I I I     I I  
+8 I   I I I I I I I I I     I   I I   I I I     I I     I I I I I   I I
+9 I I I I I I   I I   I I   I   I I I I I I     I I I   I I I I I   I I
+0 I I I I   I I I I I I I I     I I I I I I I I   I I I I   I I   I    
+1 I I   I I I I I I       I I I I I I I     I I I I I I I I I I   I I I
+2 I   I I I   I I I I I I     I I I     X     I I I I   I     I I I I  
+3   I I   I I I   I I I I     I I I   I I I     I I   I I   I I I I I I
+4 I I I I   I I   I I I I       I I I I I I   I I I I I I I I I I I I I
+5     I I I   I I I I I   I I I I I     I I I I I I I   I I I I I I   I
+6 I I I I I I I I     I   I I I I I I     I I I I I I   I I   I   I   I
+7 I   I I I   I     I     I I     I I I I I   I I I       I I     I   I
+8 I I I I I I I I I I I   I   I I I I I I I   I I       I I I I     I I
+9 I I I I I   I I   I I   I I I   I I I           I I   I     I   I I I
+------------------------------------------------------------------------
+83
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I   I I I I   I I I I   I I   I I   I   I I   I I I I     I I    
+1   I   I I I I I I I I I I I I I I I I     I I       I I   I I I I I I
+2 I I     I I   I I I I I I     I I I I I   I I I I I I I I I I I I I I
+3 I I I       I I I I I I I I I I I I I I   I I I   I   I I I I I   I  
+4 I I   I I I I I I I I I I   I   I   I I I   I I I I   I I         I  
+5 I   I I I   I I I   I I I I I I   I I   I   I I I   I I I I I   I I  
+6 I I I I I I I I I I I   I I I I I I I   I I I I I I I   I I     I I  
+7 I I I I   I I   I I I I I I I I I I     I I I I   I I I   I     I I I
+8 I I I   I   I I   I I I   I   I I   I I     I I I I I I I   I I   I I
+9 I I I I I I   I I   I I   I   I   I I I I     I I I   I I   I     I I
+0 I   I I   I I I I I I I I     I I I I I I I     I I I I   I I   I    
+1 I I   I I I I I I     I I I I   I   I X   I I I I   I I I I I   I I I
+2 I     I I   I I I I I I     I I I   I     I I I I I I I   I I I   I  
+3     I I I I I I I I   I     I I I   I   I     I I I I I   I I I I I I
+4 I I I I I I I   I I I I       I   I I I I   I I I I I I I I I I   I I
+5 I I I I I I I I     I     I I I I       I I I I I I   I I I I I I   I
+6 I I   I I I I I     I I I I I I I I     I I   I I I   I I   I   I   I
+7 I   I I I   I   I I     I I I I I I I I I   I   I I     I I I   I I I
+8 I I   I I I I I I I I   I   I I I I   I I   I I I     I I I I   I I I
+9 I   I   I     I   I I   I I I I I   I       I   I I   I     I I I I I
+------------------------------------------------------------------------
+84
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I   I I   I   I I I I   I I   I     I   I I   I I I I   I I I    
+1   I   I I I I I I I I I I I I I I   I I   I I       I I I I I I I I I
+2 I I   I I I I I I I I I I       I I I I   I I I I I I I   I I   I I I
+3 I I I     I I I I I I I I I I I   I I I I I I I       I I I       I  
+4 I I I I I I I   I   I I I   I I I   I I I   I I I I   I I I       I  
+5 I   I I I I I I I I I I I I I I I I I   I I I I I     I   I I I I I  
+6   I I I   I I I I I I   I   I I I I I I I I I I I I I I I I     I I  
+7 I I I I I I I     I I I I I I I I I     I   I I   I I I   I   I I I I
+8 I I I I I   I I I I I I   I   I I   I I     I I I I I I I     I   I I
+9   I I I I I   I I     I   I   I   I I   I     I I I   I I   I I     I
+0 I I I I   I I I I I I I I I   I I I I X I I     I I I I I   I   I I  
+1 I I     I I   I I     I I I I   I I I     I I   I   I I I I   I I I I
+2 I   I I   I I I I I I I     I   I   I     I I I I I I I   I I I   I I
+3     I I I I   I I I I I     I I I   I I I       I I I     I I I I   I
+4 I I I I I I I   I I I I     I   I   I I I   I I I     I I I I I   I  
+5 I I I I I I I       I     I I I I   I I I I I I I I     I I I I I   I
+6   I I I I I I I I   I I I I I   I I I   I I I I I I   I I   I   I   I
+7 I   I I I I I   I I       I I I I I I I I   I I I I     I I I   I I I
+8 I I   I I I   I I I     I I I I I I   I I   I I I     I I I I   I I I
+9 I   I   I     I I   I I I I I I I I         I   I I   I     I I I I  
+------------------------------------------------------------------------
+85
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I I I I I I I I I I I   I I   I     I I I I       I     I I I    
+1   I   I I   I I I I I I I I I I I I I I I I I I   I I I I I I I   I I
+2 I I   I I I I I I I I I I I   I I I   I   I I I I I I I   I I     I I
+3 I I I I   I   I I I   I I I   I   I I   I I I I         I I     I I  
+4 I I I I I I I I I     I I   I I I     I I     I   I     I I          
+5 I I I I I I I I   I I I I I   I I I I   I I I   I I   I I I I I I I I
+6   I   I I I I I I I I I I   I   I I I I I I I I I I I I I I     I I I
+7 I I I I I I I     I I I I I I I I I   I I I I     I I I   I I I I   I
+8 I I I I I     I I I I I   I     I I I I     I I   I I I I   I I   I  
+9   I I   I     I I   I I   I       I I I I     I I I   I I I I I     I
+0 I I I I   I I   I I I I I I I I I I     X I     I I I I I   I     I I
+1 I I     I     I       I I I I I   I I       I       I I I I   I I I I
+2 I   I I I I I I I I I I         I I I     I   I I I I I   I I I   I I
+3     I I I     I   I I I     I I I   I I I       I I I I   I I   I I I
+4 I I I I I I I I I I I I   I I   I I I I     I I I I   I   I   I   I I
+5 I I I I I I         I     I I I I   I I I   I I I I     I I I   I I I
+6 I I I I I I I I I I   I I I I   I I I     I I I I I I I I   I   I   I
+7 I I I I I I I   I I       I I I   I I I I     I I I   I I I I   I I I
+8 I   I I I I     I I I   I I I I   I I I I     I I         I I   I   I
+9 I   I I I I   I I   I I   I   I I I         I   I I   I I   I I I I  
+------------------------------------------------------------------------
+86
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I I   I I I I I I   I   I I I I     I I   I     I I     I I I I  
+1   I I I I   I   I I I   I I I   I I I I I I I I   I I   I I I I I I  
+2   I I I   I I   I I I I I I   I   I I I   I I I I I I I I   I       I
+3 I I I I   I I I I I I I I I   I     I   I   I I   I     I I     I I  
+4 I I I I I   I I I     I   I I I I   I I     I I   I I   I I          
+5 I I I I   I I I I I I I I I I I I I I I I I I   I I I I I I   I   I I
+6   I I I I I I I I   I I     I   I I   I I I I I   I   I I I       I I
+7 I   I   I I I I I I I I I I I I I I   I I I I     I I     I I I I I I
+8 I I I I I     I I I I I   I I I I I   I I   I I I I I I     I I I I  
+9   I I I I     I I   I I       I I I I I X     I I I   I I I I I     I
+0 I I   I I I I   I I I I I I I I I I       I I   I I I   I   I     I I
+1 I I     I I   I I   I I I   I I   I I     I I     I I I   I   I I   I
+2 I   I I I I I I I I I       I I I I I   I I   I I   I I   I I I I I I
+3   I   I I   I I I I I I         I   I I I       I I I I     I I I I I
+4   I I   I I I I I I I     I I   I I I I I I I I I I I I   I   I I I I
+5 I I I I   I         I     I   I     I I I     I I I     I I I   I I I
+6 I I I I I   I I I I   I   I I I I I I     I I I I I I I I I I   I   I
+7 I I I I I I     I I       I I I   I I I I I   I I I   I I I I   I I  
+8 I   I I I I I   I I I I I I I I   I I   I       I         I I   I I I
+9 I I I I I I     I I I I   I   I I I     I   I   I I I I I   I I I I I
+------------------------------------------------------------------------
+87
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I I   I I I I I I   I   I I I I       I   I I   I I I   I I I I  
+1   I I I I I I   I I I   I I I I I I I I I   I I   I I I I I I I I I  
+2 I I I I I I I   I I I I I I   I   I I I   I I I I I I I I   I       I
+3 I I I I   I I I I I I I I I   I     I I I   I     I   I   I     I    
+4 I I I   I   I I I I I I   I I I     I I     I I   I I   I I          
+5   I I I I I   I I I   I I I I I I I I I I I I I I I I I I I I I I   I
+6   I I I I I I I I   I I I   I   I I   I I I   I I I I I I I       I I
+7 I I I I I   I I I I I   I I I I I I I I I I I     I I       I I I I I
+8 I I I I     I I I I I I   I I I I I   I X   I I I I I       I I I I I
+9     I I I     I I   I I       I I I I I   I   I I I I I   I I I     I
+0   I I I I I I   I I I I I I I I I I I     I I I I I I I I   I     I I
+1 I I     I I   I I   I I I   I I I I I     I I     I I I       I I   I
+2     I   I I I I I I I       I I I I I I I I   I I   I     I I I I I I
+3   I I I I   I I I I I I     I   I     I I       I I I I   I I I I I  
+4   I I I I I I I I I I I   I I   I I I I I I I I I I I I I I I I I I I
+5 I I I I I I I   I   I     I   I I I I I I   I I I I     I I I I I I I
+6 I   I I I   I   I I I I     I I I I I       I I I   I   I I     I I I
+7 I I   I   I   I I         I I I   I I I I I I I I I   I I I I     I  
+8 I   I I I I I   I I I I I I I     I I   I       I         I I I I I I
+9   I I I   I     I I I I   I   I I I     I   I I I   I I I   I I   I I
+------------------------------------------------------------------------
+88
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I I I I I I I I I   I   I I I I       I I I I   I I I   I I I I  
+1     I   I I     I I       I I I I I   I I   I I   I I I I I I I I I  
+2 I   I I I I I I I   I I I I   I I I I I I I   I I I I I I   I       I
+3 I I I I   I I I I I I I I         I I I I I I     I   I I I     I    
+4 I I I   I I   I I I I I I I   I I   I I     I I   I I   I I   I      
+5   I I I I I   I I I   I I I I   I I I I I I I I I I I   I I I I I   I
+6   I I I I I I I I I I I I   I I   I I I I   I I I I I I I I   I   I I
+7 I I I I I I I I I   I I I I     I I I I I I I       I I     I I   I I
+8   I I I     I   I I I I   I I I   I   X   I I I I I I       I   I I I
+9   I I I       I I   I         I I I I I   I   I I I I I I I I I   I I
+0   I I I I     I I I I I   I I I I I I     I I I I   I I I I       I I
+1 I       I I   I I   I I I I I I I I I     I       I I I       I     I
+2   I I   I I   I   I I       I I   I I I I I     I I I I I I I I I I I
+3   I I I     I I I   I I I   I     I   I   I     I I I I   I I I   I  
+4     I I I I I I I   I I   I I I I I I I I I I I I I I I I I I I I I I
+5 I I I I I I I   I   I I       I I I I I     I   I   I     I   I   I I
+6 I   I I I I I I I I I I     I I I I I I     I   I I I     I     I I I
+7 I I I I   I   I I I       I I I       I I I I I I I I I I I I   I I I
+8 I I I I I I I     I I I   I I       I I I     I I           I I I I I
+9   I   I I I     I I   I       I I I I   I   I I I   I I I   I I   I I
+------------------------------------------------------------------------
+89
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I I I   I I I I I I I I I I I I       I I I I I I I I   I I I I  
+1   I I   I I     I I       I I I I I   I I   I I   I   I I I I I I I  
+2 I   I I I   I I I   I I   I I I I I I I I I   I I   I   I I     I   I
+3 I I I I   I I   I   I I I         I   I I I I     I I I I I     I    
+4 I I I   I I   I I I I I I I I I I   I     I I       I I I I   I      
+5   I   I I I I   I I I   I I I   I I I I I I I I I I I I I I I I I   I
+6 I I I   I   I I I I I I I I I I   I I I I   I I I I I I   I   I     I
+7 I I I I I I I I I I I I I I I   I I I I   I I       I I     I I I I I
+8   I I I I   I I I I I I I I I I I I   I X I I I I I I I     I I I   I
+9   I I I I     I I   I       I I I I   I   I I I I I I I I I   I I I I
+0   I I   I I   I I I   I   I I   I I I       I I     I I I I   I   I I
+1 I   I   I I     I   I I I I I I I I I     I       I I I     I I I I  
+2   I I   I I   I I I I       I I   I I I I I   I I I I I I I I I I I I
+3   I I I     I I I   I I I   I     I   I I I     I I I I   I   I I I I
+4     I I I I   I     I I   I I I I I I I I I I I I I I I I I I   I I I
+5 I I I I I I I I I     I   I     I I I I     I   I   I     I   I   I  
+6 I   I I   I I I I I I I     I I I I I I   I I   I I I   I I     I I I
+7 I I I I   I I I I I       I I I     I I I I I I I I I I I I I   I I I
+8 I I I   I I I     I I I I I         I I       I I       I I I I I I I
+9   I I I I I     I I I I       I I I I   I I I I I   I   I   I I     I
+------------------------------------------------------------------------
+90
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I I I   I I I I I I I I I I I I       I I I I I I   I   I I I I  
+1   I I   I I       I       I   I   I   I I     I I I I I I   I   I    
+2 I   I I I   I I I I I I   I I I I   I I I     I I I I   I I     I    
+3 I I I I I I I   I I I   I I   I   I   I I I     I I I I I       I    
+4 I I I     I I I I I I   I I I I I I I I   I I     I I I I I I I      
+5 I I     I I I   I I I   I I I   I I I I I I I I   I I I I I I I I I I
+6 I I I I I   I I   I   I I I   I     I I I   I I I   I I I I   I     I
+7 I I I I I I   I I I I I I I I I I I I I   I I I I     I     I I I I I
+8   I I I I   I I I I I   I I I I I I   I   X   I I   I I     I I I I I
+9   I I I I   I   I   I I     I I I I I I   I I I I I I I I I   I I I I
+0   I I   I I   I   I I I   I I I   I I I   I I I     I I I I   I   I I
+1 I   I   I I     I I I I I I I I I I I I I I   I   I I   I   I I I I  
+2   I I   I I   I I I         I I I I   I I I   I I I I I I I I   I I I
+3   I I     I I I I I I   I   I     I I I I I   I I   I I   I I I I I I
+4     I I I I   I I   I I   I I I I I I I I I   I I I I   I   I I I I I
+5   I I I I I I I I   I I   I     I I I I   I I       I   I I I I I I  
+6 I   I I   I I I I I I I     I I   I I I   I I I I I I   I I     I I I
+7 I I I I   I I I I I   I   I   I     I I I I I I I   I I   I I   I   I
+8   I I I I I I     I I I I I         I I       I     I   I I I I I I  
+9   I I I I I     I I I I         I I I   I I I I I   I   I I I I   I I
+------------------------------------------------------------------------
+91
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I I I   I I I I   I I I I I I I       I I I I I I   I   I I I I  
+1   I I     I   I   I   I   I   I I I   I I     I I I I I I   I I I I  
+2 I   I I I I I I I I I I   I I I I I I   I I   I I I I I I I     I    
+3 I I I I I I I I I I I   I I   I I I I I I I     I I I I I     I I    
+4 I I       I I I I I I   I I I I I I I I   I I I   I I I I   I I      
+5 I I     I I I   I I I     I I     I I I I I I I I I I I I I I I I I I
+6 I I I I I   I I   I   I I I I I     I   I   I   I I I I I I I I     I
+7 I I   I I I I I I I I I   I I I I I I I I X I I I     I     I I I I I
+8     I   I I I I   I I   I   I I I I   I       I I I   I     I I I I I
+9   I I I I   I I I I I I     I I I I I I   I I I I I I I I I     I I I
+0   I I   I I   I   I I I   I I I I I I I   I I I I   I I I I I I   I I
+1 I   I   I I   I I I I     I I I I I I I I I   I   I I I I   I I I I  
+2   I I   I I   I I I         I I I I I I I     I I I I I I   I I I I I
+3   I I     I I I I I     I   I I   I I I I I   I I   I I I I I I I I I
+4     I I I I I I I     I I I   I   I I I I I   I I I I   I   I I I I I
+5     I I I I I I I I I I   I   I I I   I   I I       I   I I I I I I  
+6 I   I I I I I I   I I     I I I I I I I   I   I I I I   I I   I I I I
+7 I I I I   I I I   I I I   I         I I I I I I I   I I   I I   I I I
+8   I I I I I I I   I I I I           I I I   I I I   I   I I I I   I I
+9   I I I I I       I I           I   I   I I I I     I   I I I     I I
+------------------------------------------------------------------------
+92
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I   I I   I I I   I I I I I I I         I I I I I   I I I I I I  
+1   I I   I I   I       I I I   I I     I I   I   I I I I I   I I I I  
+2 I   I I I I I I   I I I     I I I I I   I I     I I I I I I     I    
+3 I I I I I   I I I I I   I I   I I I I I   I I   I I I I I I   I I    
+4 I I I   I I I   I I I   I I I I I I I I   I I I   I I I I   I I      
+5 I     I I   I   I   I   I I I I   I I I I   I I I   I I I I I I I I  
+6 I I I I I   I I   I I   I I I I     I   I   I   I I I I I   I I I    
+7   I I I I I I I I I   I I I I I   I I I I   I I I     I       I I I I
+8     I I I I I I I I I I I   I I I   I I   X   I I I   I I   I I I I I
+9   I I I I   I I I I I I     I I I I I I   I I I I I I I I       I I I
+0   I I   I I I I   I I I I I I I I I I I   I I I I   I I   I I I I    
+1   I I   I I   I I I I     I I I I I I I I I   I   I I I I   I   I I  
+2   I I         I I I     I   I I I   I I I I   I I I I I I I I I I I I
+3   I I     I I I I I     I   I I   I I   I I   I I   I   I I I I I   I
+4   I I I I I I I I   I I I I I I I I I I I I   I I   I   I I I I I I  
+5     I I I I I I I I I I   I I I I I I     I I       I I I I I I I I  
+6 I   I I I I I I   I I I   I I I I   I I   I I I I I     I I   I   I  
+7 I   I       I I I I I I I I         I   I I I I I I I     I I I I I I
+8   I   I   I I I   I   I I       I     I I   I I I   I   I I I I   I I
+9 I I I   I       I I I           I   I   I I I I I   I     I I     I I
+------------------------------------------------------------------------
+93
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I   I I   I   I   I I I I I I I         I I I I I   I I I I I I  
+1 I I     I I   I       I I I I I I     I     I I I   I I I I I I   I  
+2 I     I I I I I   I I I   I I I I I     I I   I I I I I   I     I I  
+3 I   I I I   I I I I     I I I I I I I I   I I   I   I I I I   I      
+4 I I I   I I I I I I I I I I I I I I I I I I I I   I   I I   I I      
+5 I I   I I   I       I   I I   I   I I   I   I I I   I I I I I I I I  
+6 I I   I     I I I I I I I I I I   I I       I I I I I I I I I I I    
+7   I I I I I I   I I   I I   I I   I I   I   I I I     I I     I I   I
+8   I I I I I I I I I I I I I   I I   I I X   I I   I   I I     I I I I
+9   I I I I I I I I I   I     I I I I I I I I I I I   I I I       I I I
+0   I I   I I I I   I I I I I   I I I I I   I   I I   I I   I I I I I  
+1   I I   I     I I I I     I I I I I I I I I   I   I I I I I I   I I I
+2 I I I           I I I   I I   I I I I I I I   I I I I I I I   I I I I
+3   I I I   I   I I I     I I I I   I I I I I   I I   I I I I I   I   I
+4   I I I I I I   I   I I I   I I I I I I   I     I       I I I I I I  
+5     I I I I I I I I I I   I I I I I I     I I   I I I I I I I I I I  
+6     I I I I   I I   I I   I I   I I I I I I I I I I     I     I   I I
+7 I   I       I I I I I I I I         I   I   I I I I I     I I I I I I
+8 I I I I I I   I   I   I I       I     I I   I I I   I   I I   I I   I
+9 I I I   I I     I I I           I   I I   I I I I   I     I I I I I  
+------------------------------------------------------------------------
+94
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I   I I I I   I I I I I I I I I         I I I I I   I I I I I    
+1 I I     I I   I       I I I I   I I   I     I I I   I   I I   I I I  
+2 I   I I I I I I   I I     I I I I I     I I   I I I I I   I     I I  
+3 I   I I I   I I   I       I I I I I I     I I I I   I   I I   I I    
+4 I I I   I I I I I   I I I   I I I I I I I I   I   I I I I I I I      
+5 I I   I     I   I I I   I I I I   I I   I   I   I I   I I I   I I I  
+6 I I   I I   I   I I I I   I I I   I I       I I   I   I I I I I I    
+7     I   I I I I   I I I I I I I I I   I X   I I I I   I I   I I I   I
+8   I I I I I   I I I I I I I     I   I I     I I   I I I I   I I   I I
+9   I I   I I I I   I   I I   I     I I I I I I I     I I I     I I I I
+0   I I   I I I I     I   I I I I I I   I   I I   I   I     I I I I I I
+1   I I   I     I I I       I I I   I   I I   I I I I I I I I I I I I I
+2 I I I           I I I   I I I I I I I     I   I I I I I I I   I I I I
+3     I I I I   I I I     I I I I I I I I I I   I     I I I I I I I I I
+4   I I I I   I I I   I   I   I I I I I I I     I I         I I I   I  
+5     I I I I   I   I I I I I I I   I I I   I     I I I I I   I   I I  
+6     I   I I I I I     I   I I I I I I I I I I I I I     I   I I I I I
+7 I   I       I I I I I I I I         I   I I   I I I I I I I I I I I I
+8 I I I I I I I I   I     I I     I   I I I   I I I I I   I I   I I I I
+9 I   I   I I   I I   I           I   I I   I I   I         I I I I I I
+------------------------------------------------------------------------
+95
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I I I I I I   I I I I I   I I I           I I I I   I I I   I    
+1 I I   I I     I   I I I I I I   I I   I I   I I I I I   I I   I I I  
+2 I   I I I I I     I I     I I I   I       I   I   I I I   I   I I I  
+3 I   I I I   I I   I     I I I I I   I I   I I I I I I I I I I I I    
+4 I I I   I   I I I     I I   I I   I I I I I I I   I I I I I I I      
+5 I I I I   I I   I I I   I I I I   I I I I I I I I I   I I I I I I I  
+6 I I   I I   I   I I I I   I I     I I   X   I I   I I I I I I I I I  
+7     I   I I I I   I I I I I I I I I I I     I I I I     I   I I I I I
+8   I   I I I I I I I I I I I I   I   I I     I I   I I I I   I I   I I
+9     I   I I I I I I   I I I I     I I I I   I I I     I       I I I I
+0   I     I I I I     I   I I I I I I I I I I I I I   I       I I I I I
+1   I I I I I   I I I I       I I I I   I I I I I I I   I I I I I I I I
+2 I I I           I I I   I I I I I I I     I   I I I I   I I I I I I I
+3   I   I I I   I I I       I   I I I I I I     I     I I I I I I I I I
+4   I I I I I I I I   I   I I I I I I I I I     I I     I I I I I   I  
+5   I I I I I   I I I I I I I I I   I I I I I     I I I I I I I   I I  
+6 I   I   I   I I I I   I   I I I I I I   I I I I I I   I I   I I I I I
+7 I   I   I   I   I   I I I           I   I I I I   I I I I I I I   I  
+8 I   I I I I I I I I I   I I     I   I   I   I I I I I I I I     I I I
+9 I   I     I   I I   I                 I   I I   I I     I I I I I I I
+------------------------------------------------------------------------
+96
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0   I I I I I I I I   I   I     I I I           I I I I   I I I I I    
+1 I I   I I     I   I I I I   I I I I   I I   I I I I I   I I I I I I  
+2 I   I I I I I     I I I I I   I I I   I   I I I I I I I       I I I  
+3 I   I I I   I I   I   I I I I I I I I I     I I I I   I   I I I I    
+4 I   I I I   I I I     I     I I   I I I I I I I I I I     I I     I  
+5 I I I I I I I   I I   I I I I I   I I I X I I I I I   I I I I I I I  
+6 I I I I I   I   I I I I   I I I   I           I I I I I I I I I I I  
+7   I I   I I I I   I I   I I I I I I I I     I I I I   I I   I I I I I
+8   I I I   I I   I I I I I I I       I I     I I I I I I I   I     I I
+9     I I I I I I I I   I I I I     I I I I   I I I     I       I     I
+0   I I   I I I       I   I I I I I   I I I I I I I   I I     I I I I I
+1   I I I I I I I I I I   I     I I I   I I I I I I I I I I I I I I I I
+2 I I I             I I I I I I I I I I I   I I I I I I     I I I I   I
+3   I   I I I I I I I       I I I I I I I I     I I   I I I I I I   I  
+4   I I I I I I I I   I   I I I   I I I I I     I       I I I I I      
+5   I I I I I     I I I   I I I I I I I I I I   I I I I I I I I I I I  
+6 I   I   I   I   I I I I I I I I I I I   I I I I I     I I   I I I I I
+7 I   I   I   I I I   I I I         I I   I I I I I I   I I I I I I I I
+8 I   I I I I I I I   I   I I   I I   I   I   I I I I I I I I     I I I
+9 I I I     I   I I   I               I I I   I I I I I   I I   I I I I
+------------------------------------------------------------------------
+97
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0 I I   I I I I I I   I I I   I I I     I         I   I   I I I I I    
+1 I     I I I I I   I I I I I I I I I   I I I I I   I I   I I I I I I  
+2 I   I I I I I I     I I I I   I I I   I   I I I I I I I I     I   I  
+3 I   I I     I I   I   I I   I   I I I I   I I I I I   I I I I I I    
+4 I I I I I   I I       I I   I I I I I   I   I I I I I     I I I   I  
+5   I I I I I     I I I I I   I I   I I X   I I I I I     I   I I I I  
+6 I I I I I I I I I I I I I   I I I I         I I I I I I   I I I I I  
+7   I I   I I I I   I I I I I   I I   I I     I     I   I I   I I   I I
+8   I I I I I I   I I I I I I I       I       I I I I I I I   I       I
+9     I I   I   I I I     I I I   I I   I I   I I I I I I       I     I
+0   I I I I I I I I       I I I   I   I   I I I I I   I I     I   I I I
+1 I I   I   I I I I   I   I   I I I I I I I I I   I I I I I I   I   I I
+2 I I I I           I I I I I I I   I I I I I I   I I I I I I I I I I I
+3   I I I I   I I I         I I I I I I I I     I I   I I I I   I   I  
+4   I I I I I I I I I I   I I I I I I I I I     I       I I I I        
+5   I   I I I     I I I   I I I I I I I I I I   I I I I I   I   I I I I
+6 I   I   I   I   I I I I I I   I I I I I I I I I I I   I     I I I I I
+7     I   I     I I   I I I I       I       I I I I I   I I I I I I I I
+8 I   I I I I I I I   I     I   I I   I I I   I I I I I I         I I I
+9 I I       I   I I                   I I I   I I I I I   I     I I   I
+------------------------------------------------------------------------
+98
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0 I I I I I I I   I   I I I   I I I     I I       I   I   I I I I I    
+1 I     I I I I I   I I I I I I I   I   I I I I I   I     I I I   I    
+2 I   I I I   I I       I I I   I I     I     I I I I I I I I   I I I  
+3 I   I I   I I         I I I I   I I I I   I I I   I I I I I I I I I  
+4 I I I I I   I I       I I   I I I   I X I   I I I   I I I I   I   I  
+5 I I I I I I     I I I I I   I I I I     I I   I I I I   I I I I I    
+6 I I I   I I I I I I I I I I   I I I         I I I I I I I I   I I I I
+7   I I I I I I I I I I I I I     I   I I I I I     I   I I I I I   I I
+8 I I I I I I I   I I I I I I I I     I     I I I I I I I I   I I     I
+9     I I   I   I I       I I I   I I   I I I I I I I I   I     I I   I
+0   I I I I I I I I       I I I   I   I   I   I I     I I         I I I
+1 I I I I   I I I I I I   I   I I I I I     I I   I I I   I I I I I I I
+2 I I I I         I I I I I I I I   I I I I I I   I I I I I I I I I I I
+3   I I I I   I I I       I I I   I I   I I       I   I I I I   I   I I
+4   I I I I I I I   I I     I I I I I I I I     I I     I I I I I      
+5   I     I       I     I I I I I I I I I I     I I I I I   I I I   I I
+6 I   I     I I I I I I I I I   I   I I I I I I   I I   I     I   I I I
+7     I   I     I I       I I     I I       I I I I I   I I I   I I   I
+8 I I I   I I I I I   I   I I   I I   I I       I I I   I I     I I I  
+9 I I     I I I I I I                 I I I     I I I I   I     I I I I
+------------------------------------------------------------------------
+99
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0 I I I I I   I I I I I I I I I   I     I I     I I I I   I   I I I    
+1 I     I I I I     I I   I I I I   I I   I I   I   I I     I I   I    
+2 I I I I I   I I     I I I I   I I     I I   I I I I I I I I   I I I  
+3 I   I I   I I         I I I I I   I   X I I I I   I I I I   I   I I  
+4 I I   I I   I I       I I   I   I I I I I   I I I   I I I I I I I I  
+5 I I I I I I I I I I I I I   I I I I     I I I I   I I   I I I   I I  
+6 I I I   I I   I I I I I I I I I I I I       I I I   I   I I   I   I I
+7   I I I I I   I I I I I I I   I I I I I I I I     I I I I I I I   I  
+8 I I I I I I I I   I I   I I I I I         I I I I   I I I   I I   I I
+9   I I I I I   I I I     I I I   I I   I I I I I I I I   I     I I   I
+0   I I I I I I I I   I       I I   I I I I   I I I     I I     I   I I
+1 I I I I   I I I I I I   I   I I I   I   I I I   I I I   I I I I I I I
+2 I I I I I       I I I I I I I I   I I I I I I     I   I I I I I I I I
+3 I I I I I   I I I I     I I I   I I   I I   I   I I I I I I I I   I I
+4       I I I   I I I I     I   I I I I I I   I I I I   I I I I I      
+5 I I     I     I I     I I I   I I I I I I I   I I I I I   I I I I I I
+6 I I I   I I I I I I I   I   I I   I I I I I   I I I   I     I   I I I
+7     I   I     I         I I     I I I     I I I I I   I I I I I I   I
+8 I I I   I I I I I   I I I I I I I   I I     I I I I   I I     I I I I
+9 I I I   I I I I I I                 I I I I   I   I I   I     I I I I
+------------------------------------------------------------------------
+100
+got you
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4
+0 I I I I I I I I I I I I I I I I I     I I     I I I I I I     I I    
+1 I     I I I I I I I I I I I I I I I I I I I   I I I I   I I I   I    
+2 I I I I I     I     I I I     I I     X I I I I I I I I I I I I I    
+3 I   I I   I I         I I I   I I I     I I I I I I I I I I I   I I  
+4 I I   I     I I   I   I I I I   I I I I I I I I I   I I I I I I I I  
+5 I   I   I I I I I I I I I   I   I I I   I I I I   I I   I I I I I I  
+6 I I I I I I   I I I I I I I I I I I I       I   I   I I I   I I   I I
+7   I   I   I   I I I I I I I   I I I I I I I I   I I I I   I I     I I
+8 I I I I I I I I I I I   I I I I I         I I I I   I I     I I   I I
+9   I I I I I I I I I     I I I   I I   I I I I I I I I   I   I I I   I
+0   I I I I I   I I   I       I I   I I I I   I I I     I I     I     I
+1 I   I I   I I I I I I I I   I I I   I   I I I   I I I I I   I I I I  
+2 I I I I I   I   I I   I     I I   I I I I   I I I I   I I I I I I I  
+3 I I I I I   I I I I   I I   I I I I I I I   I   I I I   I I I I   I I
+4   I   I I I I I I I       I   I I I I I I   I I I I   I I I I I      
+5 I I I I I I   I I     I I I   I I I I I I I I I   I I I   I I I I   I
+6 I I     I I I I   I I I I   I I       I   I I I I I   I   I I   I I I
+7     I I I   I I   I     I I   I I I I I   I I I I I   I I I I   I   I
+8   I     I I I I I I I I I I I I     I I     I I I I   I I     I   I I
+9   I I   I   I I   I I               I   I I I I   I I   I       I I I
+------------------------------------------------------------------------
+[1;5;33;41mID: 106703014[0m
