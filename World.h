@@ -1,5 +1,4 @@
 #include "RandomNum.h"
-
 using namespace std;
 
 class Creature;

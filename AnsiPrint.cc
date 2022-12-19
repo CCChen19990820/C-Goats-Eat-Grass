@@ -1,23 +1,3 @@
-/* Copyright (c) 1996 by The National Chengchi Univ. All Rights Reserved */
-
-/***************************************************************************
-  NAME
-  AnsiPrint.cc
-  PURPOSE
-
-  NOTES
-
-  AUTHOR
-  Tsai-Yen Li (li@cs.nccu.edu.tw)
-  HISTORY
-  Tsai-Yen Li - Sep 25, 1996: Created.
- ***************************************************************************/
-
-/* $Log: AnsiPrint.cc,v $
- * Revision 1.1  1996/10/09 10:34:59  li
- * Initial revision
- * */
-
 #include <cstdlib>
 #include <cstring>
 #include <iostream>
@@ -35,16 +15,7 @@ const char *fgBase="30;";
 const char *bgBase="40;";
 const int kFormatStrSize=20;
 
-/** 
- * This function takes a string and ansi formatting option such as 
- * foreground and background colors, hilighting for foreground color,
- * and blinking option and then send the appropriate string to the
- * standard output. 
- * The options except for the foreground color are optional. 
- */
-
-void 
-AnsiPrint(const char *str, color fg, color bg, bool hi, bool blinking) {
+void AnsiPrint(const char *str, color fg, color bg, bool hi, bool blinking) {
 
 	// kick out exceptional case
 	if ((str==NULL)||(strlen(str)==0))
@@ -87,16 +58,7 @@ AnsiPrint(const char *str, color fg, color bg, bool hi, bool blinking) {
 
 }
 
-/** 
- * This function takes a string and ansi formatting option such as 
- * hilighting for foreground color,  and blinking option and 
- * then send the appropriate string to the standard output. 
- * The two options are optional. So, when no options are given,
- * it prints the string as normal string.
- */
-
-void 
-AnsiPrint(const char *str, bool hi, bool blinking) {
+void AnsiPrint(const char *str, bool hi, bool blinking) {
 
 	// kick out exceptional case
 	if ((str==NULL)||(strlen(str)==0))

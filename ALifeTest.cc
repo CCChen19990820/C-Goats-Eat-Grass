@@ -1,23 +1,3 @@
-/* Copyright (c) 1998 by The National Chengchi Univ. All Rights Reserved */
-
-/***************************************************************************
-  NAME
-  ALifeTest.cc
-  PURPOSE
-
-  NOTES
-
-  AUTHOR
-  Tsai-Yen Li (li@cs.nccu.edu.tw)
-  HISTORY
-  Tsai-Yen Li - Nov 29, 1998: Created.
- ***************************************************************************/
-
-/* $Log: ALifeTest.cc,v $
- * Revision 1.1  1998/11/30 01:58:55  li
- * Initial revision
- * */
-
 extern "C" {
 #include <stdio.h>
 #include <stdlib.h>
@@ -30,26 +10,17 @@ using namespace std;
 #include "AnsiPrint.h"
 #include "World.h"
 
-/**
- * Print my id 
- */
-
-void
-PrintMyID(const char *studId) {
+/*** Print my id */
+void PrintMyID(const char *studId) {
 	char *str= new char[strlen(studId)+5];
 	sprintf(str,"ID: %s",studId);
 	AnsiPrint(str,yellow,red,true,true);
 	cout << endl ;
 	delete [] str;
-
 }
 
-/**
- * PrintUsage
- */
-
-void
-PrintUsage(const char *progName) {
+/*** PrintUsage*/
+void PrintUsage(const char *progName) {
 
 	assert(progName);
 	cout << "Usage: " << progName << " [passes [display [seed]]]" << endl;
