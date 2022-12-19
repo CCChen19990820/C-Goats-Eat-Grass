@@ -18,4 +18,7 @@ The sample output can see in data file.
 
 ## Compile
 Execute the Makefile
-
+```
+make clean  
+make
+```
