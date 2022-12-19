@@ -25,10 +25,10 @@ make
 
 ## File description
 ```
-． ALifeTest.cc has the main function that start the code.
-． World.cc& World.h iterates over all locations in the farm every day.
-． Creature.cc& Creature.h declare the object function.
-． Goat.cc& Goat.h inherit the Creature object and declare the function about goat life.
-． Grass.cc& Grass.h inherit the Creature object and declare the function about grass life.
-． RandomNum.cc& RandomNum.h declare the function that return ramdom number.
+． *ALifeTest.cc* has the main function that start the code.
+． *World.cc& World.h* iterates over all locations in the farm every day.
+． *Creature.cc& Creature.h* declare the object function.
+． *Goat.cc& Goat.h* inherit the Creature object and declare the function about goat life.
+． *Grass.cc& Grass.h* inherit the Creature object and declare the function about grass life.
+． *RandomNum.cc& RandomNum.h* declare the function that return ramdom number.
 ```
