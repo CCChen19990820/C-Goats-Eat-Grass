@@ -32,3 +32,5 @@ make
 ． **Grass.cc& Grass.h** inherit the Creature object and declare the function about grass life.
 ． **RandomNum.cc& RandomNum.h** declare the function that return ramdom number.
 ```
+
+** A **
