@@ -33,4 +33,4 @@ make
 ． **RandomNum.cc& RandomNum.h** declare the function that return ramdom number.
 ```
 
-** A **
+**A**
